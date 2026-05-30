@@ -27,8 +27,26 @@
 
 ## 🧠 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&width=700&lines=👋+Hi%2C+I'm+Abdul+Wahid+from+Pakistan+🇵🇰;🎓+BS+Artificial+Intelligence+%40+COMSATS+University;🤖+Passionate+about+AI+%2F+ML+%26+Software+Engineering;🐍+Python+%26+Java+Developer;📊+Love+turning+data+into+intelligent+solutions;🚀+Always+learning%2C+always+building;📫+wahidkingyt10%40gmail.com;🌐+abdulwahid.me" alt="Typing SVG" />
+```python
+class AbdulWahid:
+    def __init__(self):
+        self.name        = "Abdul Wahid"
+        self.role        = "AI / ML Developer"
+        self.university  = "COMSATS University Islamabad, ATTOCK Campus"
+        self.degree      = "BS Artificial Intelligence"
+        self.location    = "Pakistan 🇵🇰"
+        self.email       = "wahidkingyt10@gmail.com"
+        self.website     = "https://www.abdulwahid.me"
+        self.languages   = ["Python", "Java"]
+        self.interests   = ["Machine Learning", "Data Science", "Software Engineering", "AI Research"]
+        self.available   = True  # Open to opportunities!
 
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something amazing with AI 🚀")
+
+me = AbdulWahid()
+me.say_hi()
+'''
 ---
 
 ## 🔗 Connect With Me
