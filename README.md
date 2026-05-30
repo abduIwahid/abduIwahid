@@ -124,8 +124,9 @@ me.say_hi()
 
 <div align="center">
 
-[<img src="https://github-profile-trophy.vercel.app/?username=abduIwahid&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>](https://github-profile-trophy.vercel.app/?username=abduIwahid)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abduiwahid&theme=radical&no-frame=true&no-bg=true" />
+</p>
 </div>
 
 ---
