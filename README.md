@@ -1,25 +1,18 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:111111&height=200&section=header&text=Abdul%20Wahid&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Developer%20%7C%20BS%20Artificial%20Intelligence&descAlignY=60&descSize=18&animation=fadeIn&fontAlignX=50" width="100%"/>
 
-<!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Developer+%F0%9F%A4%96;Python+%26+Java+Engineer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A7%A0;BS+Artificial+Intelligence+%40+COMSATS+%F0%9F%8F%AB;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<!-- Badges -->
+<img src="https://komarev.com/ghpvc/?username=abduIwahid&label=Profile%20Views&style=flat-square&color=222222&labelColor=000000" alt="Profile Views"/>
+<a href="https://github.com/abduIwahid?tab=followers">
+  <img src="https://img.shields.io/github/followers/abduIwahid?label=Followers&style=flat-square&color=222222&labelColor=000000" alt="Followers"/>
+</a>
+<img src="https://img.shields.io/badge/Available%20for%20Opportunities-%E2%9C%85-222222?style=flat-square&labelColor=000000" alt="Available"/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abduIwahid&label=Profile%20Views&style=flat-square&color=222222&labelColor=000000" alt="Profile Views"/>
-
-  <a href="https://github.com/abduIwahid?tab=followers">
-    <img src="https://img.shields.io/github/followers/abduIwahid?label=Followers&style=flat-square&color=222222&labelColor=000000" alt="Followers"/>
-  </a>
-
-  <img src="https://img.shields.io/badge/Available%20for%20Opportunities-%E2%9C%85-222222?style=flat-square&labelColor=000000" alt="Available"/>
 </div>
-</center>
 
 ---
 
@@ -34,7 +27,7 @@ class AbdulWahid:
         self.degree      = "BS Artificial Intelligence"
         self.location    = "Pakistan 🇵🇰"
         self.email       = "wahidkingyt10@gmail.com"
-        self.website     = "https://www.abdulwahid.me"
+        self.website     = "[https://www.abdulwahid.me](https://www.abdulwahid.me)"
         self.languages   = ["Python", "Java"]
         self.interests   = ["Machine Learning", "Data Science", "Software Engineering", "AI Research"]
         self.available   = True  # Open to opportunities!
@@ -44,6 +37,7 @@ class AbdulWahid:
 
 me = AbdulWahid()
 me.say_hi()
+
 ```
 
 ---
