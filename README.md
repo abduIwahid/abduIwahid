@@ -4,13 +4,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdul%20Wahid&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Developer%20%7C%20BS%20Artificial%20Intelligence&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Developer+%F0%9F%A4%96;Python+%26+Java+Engineer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A7%A0;BS+Artificial+Intelligence+%40+COMSATS+%F0%9F%8F%AB;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Developer+%F0%9F%A4%96;Python+%26+Java+Engineer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A7%A0;BS+Artificial+Intelligence+%40+COMSATS+%F0%9F%8F%AB;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile views + social badges -->
+<!-- Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=abduIwahid&label=Profile%20Views&color=7c3aed&style=flat-square" alt="Profile Views"/>
   &nbsp;
@@ -27,26 +25,9 @@
 
 ## 🧠 About Me
 
-```python
-class AbdulWahid:
-    def __init__(self):
-        self.name        = "Abdul Wahid"
-        self.role        = "AI / ML Developer"
-        self.university  = "COMSATS University Islamabad, ATTOCK Campus"
-        self.degree      = "BS Artificial Intelligence"
-        self.location    = "Pakistan 🇵🇰"
-        self.email       = "wahidkingyt10@gmail.com"
-        self.website     = "https://www.abdulwahid.me"
-        self.languages   = ["Python", "Java"]
-        self.interests   = ["Machine Learning", "Data Science", "Software Engineering", "AI Research"]
-        self.available   = True  # Open to opportunities!
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing with AI 🚀")
-
-me = AbdulWahid()
-me.say_hi()
-```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Abdul+Wahid+from+Pakistan+🇵🇰;🎓+BS+Artificial+Intelligence+%40+COMSATS+University;🤖+Passionate+about+AI+%2F+ML+%26+Software+Engineering;🐍+Python+%26+Java+Developer;📊+Love+turning+data+into+intelligent+solutions;🚀+Always+learning%2C+always+building;🌐+Visit+me+at+abdulwahid.me" alt="About Me Typing" />
+</div>
 
 ---
 
@@ -106,9 +87,9 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abduIwahid&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&border_radius=10" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abduIwahid&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&border_radius=10&cache_seconds=1800" height="165" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduIwahid&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&border_radius=10" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduIwahid&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&border_radius=10&cache_seconds=1800" height="165" alt="Top Languages"/>
 
 <br/>
 
@@ -116,7 +97,7 @@ me.say_hi()
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abduIwahid&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true&radius=8" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abduIwahid&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true&area=true&area_color=7c3aed&radius=8" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -126,7 +107,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abduIwahid&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abduIwahid&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -161,7 +142,7 @@ me.say_hi()
 <div align="center">
 
 <!-- Snake animation -->
-<img src="https://raw.githubusercontent.com/abduIwahid/abduIwahid/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
