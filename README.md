@@ -12,8 +12,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abduIwahid&label=Profile%20Views&style=flat-square&color=222222&labelColor=000000" alt="Profile Views"/>
 
-  &nbsp;
-
   <a href="https://github.com/abduIwahid?tab=followers">
     <img src="https://img.shields.io/github/followers/abduIwahid?label=Followers&style=flat-square&color=222222&labelColor=000000" alt="Followers"/>
   </a>
