@@ -10,7 +10,7 @@
 
 <!-- Badges -->
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=abduIwahid&label=Profile%20Views&style=flat-square&color=222222&labelColor=000000" alt="Profile Views"/>
 
   <a href="https://github.com/abduIwahid?tab=followers">
@@ -18,7 +18,7 @@
   </a>
 
   <img src="https://img.shields.io/badge/Available%20for%20Opportunities-%E2%9C%85-222222?style=flat-square&labelColor=000000" alt="Available"/>
-</p>
+</div>
 
 ---
 
