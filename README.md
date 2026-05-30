@@ -25,11 +25,37 @@
 
 ## 🧠 About Me
 
-<div align="center">
+## 🧠 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Abdul+Wahid+from+Pakistan+🇵🇰;🎓+BS+Artificial+Intelligence+%40+COMSATS+University;🤖+Passionate+about+AI+%2F+ML+%26+Software+Engineering;🐍+Python+%26+Java+Developer;📊+Love+turning+data+into+intelligent+solutions;🚀+Always+learning%2C+always+building;🌐+Visit+me+at+abdulwahid.me" alt="About Me Typing" />
+```python
+class AbdulWahid:
+    def __init__(self):
+        self.name        = "Abdul Wahid"
+        self.role        = "AI / ML Developer"
+        self.university  = "COMSATS University Islamabad, ATTOCK Campus"
+        self.degree      = "BS Artificial Intelligence"
+        self.location    = "Pakistan 🇵🇰"
+        self.email       = "wahidkingyt10@gmail.com"
+        self.website     = "https://www.abdulwahid.me"
+        self.languages   = ["Python", "Java"]
+        self.interests   = ["Machine Learning", "Data Science", "Software Engineering", "AI Research"]
+        self.available   = True  # Open to opportunities!
 
-</div>
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something amazing with AI 🚀")
+
+me = AbdulWahid()
+me.say_hi()
+```
+
+---
+
+### How to update:
+1. Open your README → click ✏️ edit
+2. Find the About Me section with the `<img>` typing animation line
+3. **Delete** that `<img>` line
+4. **Paste** the Python code block above in its place
+5. Commit ✅
 
 ---
 
