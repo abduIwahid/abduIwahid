@@ -104,10 +104,10 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abduIwahid&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&border_radius=10&cache_seconds=1800" height="165" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduIwahid&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&border_radius=10&cache_seconds=1800" height="165" alt="Top Languages"/>
-
+[<img src="https://github-readme-stats.vercel.app/api?username=abduIwahid&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc&border_radius=10&cache_seconds=1800" height="165" alt="GitHub Stats"/>
+&nbsp;&nbsp;](https://github-readme-stats.vercel.app/api?username=abduIwahid)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduIwahid&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc&border_radius=10&cache_seconds=1800" height="165" alt="Top Languages"/>
+](https://github-readme-stats.vercel.app/api/top-langs/?username=abduIwahid)
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=abduIwahid&theme=github-dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border_radius=10&dates=aaaaaa&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak" width="500"/>
@@ -124,7 +124,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abduIwahid&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
+[<img src="https://github-profile-trophy.vercel.app/?username=abduIwahid&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>](https://github-profile-trophy.vercel.app/?username=abduIwahid)
 
 </div>
 
