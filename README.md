@@ -18,6 +18,7 @@
   </a>
 
   <img src="https://img.shields.io/badge/Available%20for%20Opportunities-%E2%9C%85-222222?style=flat-square&labelColor=000000" alt="Available"/>
+  </center>
 </div>
 
 ---
