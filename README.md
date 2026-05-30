@@ -25,8 +25,6 @@
 
 ## 🧠 About Me
 
-## 🧠 About Me
-
 ```python
 class AbdulWahid:
     def __init__(self):
