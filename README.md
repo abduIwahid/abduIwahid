@@ -163,8 +163,6 @@ me.say_hi()
 <!-- Snake animation -->
 <img src="https://raw.githubusercontent.com/abduIwahid/abduIwahid/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 *"The goal of AI is not to replace human intelligence, but to augment it."*
 
