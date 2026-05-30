@@ -10,15 +10,18 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abduIwahid&label=Profile%20Views&style=flat-square&color=000000&labelColor=000000" alt="Profile Views"/>
-  <a href="https://github.com/abduIwahid?tab=followers">
-    <img src="https://img.shields.io/github/followers/abduIwahid?label=Followers&style=flat-square&color=ffffff&labelColor=000000" alt="Followers"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Available%20for%20Opportunities-%E2%9C%85-ffffff?style=flat-square&labelColor=000000" alt="Available"/>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=abduIwahid&label=Profile%20Views&style=flat-square&color=222222&labelColor=000000" alt="Profile Views"/>
 
-</div>
+  &nbsp;
+
+  <a href="https://github.com/abduIwahid?tab=followers">
+    <img src="https://img.shields.io/github/followers/abduIwahid?label=Followers&style=flat-square&color=222222&labelColor=000000" alt="Followers"/>
+  </a>
+
+  &nbsp;
+
+  <img src="https://img.shields.io/badge/Available%20for%20Opportunities-%E2%9C%85-222222?style=flat-square&labelColor=000000" alt="Available"/>
+</p>
 
 ---
 
