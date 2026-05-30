@@ -44,7 +44,7 @@ class AbduIWahid:
     def say_hi(self):
         print("Thanks for stopping by! Let's build something amazing with AI 🚀")
 
-me = AbdulWahid()
+me = AbduIWahid()
 me.say_hi()
 ```
 
