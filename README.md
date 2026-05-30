@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/github/followers/abduIwahid?label=Followers&style=flat-square&color=7c3aed&labelColor=1a1a2e" alt="Followers"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Available%20for%20Opportunities-✅-7c3aed?style=flat-square&labelColor=1a1a2e" alt="Available"/>
+  <img src="https://img.shields.io/badge/Available%20for%20Opportunities-%E2%9C%85-7c3aed?style=flat-square&labelColor=1a1a2e" alt="Available"/>
 </p>
 
 </div>
@@ -28,7 +28,7 @@
 ## 🧠 About Me
 
 ```python
-class AbduIWahid:
+class AbdulWahid:
     def __init__(self):
         self.name        = "Abdul Wahid"
         self.role        = "AI / ML Developer"
@@ -44,7 +44,7 @@ class AbduIWahid:
     def say_hi(self):
         print("Thanks for stopping by! Let's build something amazing with AI 🚀")
 
-me = AbduIWahid()
+me = AbdulWahid()
 me.say_hi()
 ```
 
@@ -54,12 +54,12 @@ me.say_hi()
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-abdulwahid.me-7c3aed?style=for-the-badge&labelColor=1a1a2e)](https://www.abdulwahid.me)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-abdulwahid.me-7c3aed?style=for-the-badge&labelColor=1a1a2e)](https://www.abdulwahid.me)
 [![GitHub](https://img.shields.io/badge/GitHub-abduIwahid-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/abduIwahid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdu1wahid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://linkedin.com/in/abdu1wahid)
-[![Email](https://img.shields.io/badge/Email-wahidkingyt10@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:wahidkingyt10@gmail.com)
+[![Email](https://img.shields.io/badge/Email-wahidkingyt10%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:wahidkingyt10@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1a2e)](https://wa.me/923078141252)
-[![CV](https://img.shields.io/badge/📄%20Download%20CV-Google%20Drive-F4B400?style=for-the-badge&labelColor=1a1a2e)](https://drive.google.com/file/d/1Oj6tQ-vtNgOllmd10VpPO5rMd5pWbbl5/view?usp=sharing)
+[![CV](https://img.shields.io/badge/%F0%9F%93%84%20Download%20CV-Google%20Drive-F4B400?style=for-the-badge&labelColor=1a1a2e)](https://drive.google.com/file/d/1Oj6tQ-vtNgOllmd10VpPO5rMd5pWbbl5/view?usp=sharing)
 
 </div>
 
@@ -112,7 +112,7 @@ me.say_hi()
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abduIwahid&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=10" alt="GitHub Streak" width="500"/>
+<img src="https://streak-stats.demolab.com?user=abduIwahid&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=10" alt="GitHub Streak" width="500"/>
 
 <br/>
 
@@ -126,7 +126,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abduIwahid&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abduIwahid&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
 
 </div>
 
