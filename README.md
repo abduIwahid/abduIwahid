@@ -48,15 +48,6 @@ me.say_hi()
 
 ---
 
-### How to update:
-1. Open your README → click ✏️ edit
-2. Find the About Me section with the `<img>` typing animation line
-3. **Delete** that `<img>` line
-4. **Paste** the Python code block above in its place
-5. Commit ✅
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
