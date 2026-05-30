@@ -28,7 +28,7 @@
 ## 🧠 About Me
 
 ```python
-class AbdulWahid:
+class AbduIWahid:
     def __init__(self):
         self.name        = "Abdul Wahid"
         self.role        = "AI / ML Developer"
