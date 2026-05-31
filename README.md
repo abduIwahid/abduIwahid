@@ -149,7 +149,7 @@ me.say_hi()
 <sub>🏛️ <b>Educative.io</b></sub><br/>
 <sub>📅 May 2026 &nbsp;|&nbsp; 15 Hours</sub><br/>
 <sub>🧠 NumPy &nbsp;|&nbsp; pandas &nbsp;|&nbsp; scikit-learn</sub><br/><br/>
-<a href="https://drive.google.com/file/d/1UGs2P9JgDlXth--FgMtQXr_n10pAjnsu/view">
+<a href="https://drive.google.com/file/d/1iCF1dC5lXYNjqLK-9EoYhNlrG8B_9QV0/view/view">
 <img src="https://img.shields.io/badge/Verify-🔗-222222?style=flat-square&labelColor=000000"/>
 </a>
 </td>
@@ -162,7 +162,7 @@ me.say_hi()
 <sub>🏛️ <b>GDGoC</b> — COMSATS Wah</sub><br/>
 <sub>📅 May 12, 2026</sub><br/>
 <sub>🚀 AI Hackathon &nbsp;|&nbsp; Problem Solving</sub><br/><br/>
-<a href="https://drive.google.com/file/d/1iCF1dC5lXYNjqLK-9EoYhNlrG8B_9QV0/view">
+<a href="https://drive.google.com/file/d/1UGs2P9JgDlXth--FgMtQXr_n10pAjnsu/view/view">
 <img src="https://img.shields.io/badge/Verify-🔗-222222?style=flat-square&labelColor=000000"/>
 </a>
 </td>
