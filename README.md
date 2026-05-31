@@ -27,7 +27,7 @@ class AbdulWahid:
         self.degree      = "BS Artificial Intelligence"
         self.location    = "Pakistan 🇵🇰"
         self.email       = "wahidkingyt10@gmail.com"
-        self.website     = "[https://www.abdulwahid.me](https://www.abdulwahid.me)"
+        self.website     = "https://www.abdulwahid.me"
         self.languages   = ["Python", "Java"]
         self.interests   = ["Machine Learning", "Data Science", "Software Engineering", "AI Research"]
         self.available   = True  # Open to opportunities!
@@ -37,7 +37,6 @@ class AbdulWahid:
 
 me = AbdulWahid()
 me.say_hi()
-
 ```
 
 ---
@@ -120,6 +119,64 @@ me.say_hi()
 
 ---
 
+## 🏆 Certificates & Achievements
+
+<div align="center">
+
+> 📂 **[View Full Certificates Repository →](https://github.com/abduIwahid/certificates)**
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+<a href="https://github.com/abduIwahid/certificates/tree/main/google-ai-essentials">
+<img src="https://img.shields.io/badge/Google%20AI%20Essentials-Specialization-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=000000" alt="Google AI Essentials"/>
+</a>
+<br/><br/>
+<sub>🏛️ <b>Google</b> via Coursera</sub><br/>
+<sub>📅 May 2026 &nbsp;|&nbsp; 5 Courses</sub><br/>
+<sub>🤖 AI &nbsp;|&nbsp; Prompt Engineering &nbsp;|&nbsp; Productivity</sub><br/><br/>
+<a href="https://coursera.org/verify/specialization/ET3L35MRSLBI">
+<img src="https://img.shields.io/badge/Verify-🔗-222222?style=flat-square&labelColor=000000"/>
+</a>
+</td>
+
+<td align="center" width="33%">
+<a href="https://github.com/abduIwahid/certificates/tree/main/machine-learning-numpy-pandas">
+<img src="https://img.shields.io/badge/ML%20with%20NumPy%2C%20pandas-Completion-F7931E?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" alt="ML Certificate"/>
+</a>
+<br/><br/>
+<sub>🏛️ <b>Educative.io</b></sub><br/>
+<sub>📅 May 2026 &nbsp;|&nbsp; 15 Hours</sub><br/>
+<sub>🧠 NumPy &nbsp;|&nbsp; pandas &nbsp;|&nbsp; scikit-learn</sub><br/><br/>
+<a href="https://drive.google.com/file/d/1UGs2P9JgDlXth--FgMtQXr_n10pAjnsu/view">
+<img src="https://img.shields.io/badge/Verify-🔗-222222?style=flat-square&labelColor=000000"/>
+</a>
+</td>
+
+<td align="center" width="33%">
+<a href="https://github.com/abduIwahid/certificates/tree/main/mtm-ai-hackathon-2026">
+<img src="https://img.shields.io/badge/MTM%20AI%20Hackathon-Participation-7B2FFF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="MTM Hackathon"/>
+</a>
+<br/><br/>
+<sub>🏛️ <b>GDGoC</b> — COMSATS Wah</sub><br/>
+<sub>📅 May 12, 2026</sub><br/>
+<sub>🚀 AI Hackathon &nbsp;|&nbsp; Problem Solving</sub><br/><br/>
+<a href="https://drive.google.com/file/d/1iCF1dC5lXYNjqLK-9EoYhNlrG8B_9QV0/view">
+<img src="https://img.shields.io/badge/Verify-🔗-222222?style=flat-square&labelColor=000000"/>
+</a>
+</td>
+
+</tr>
+</table>
+
+<img src="https://img.shields.io/badge/Total%20Certificates-3-brightgreen?style=for-the-badge&labelColor=000000&color=222222"/>
+<img src="https://img.shields.io/badge/Status-Continuously%20Updated-blue?style=for-the-badge&labelColor=000000&color=222222"/>
+
+</div>
+
+---
+
 ## 💼 What I'm Working On
 
 <div align="center">
@@ -152,10 +209,8 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Snake animation — YOUR graph -->
 <img src="https://raw.githubusercontent.com/abduIwahid/abduIwahid/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
-<!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:0a0a0a,100:000000&height=120&section=footer" width="100%"/>
 
 *"The goal of AI is not to replace human intelligence, but to augment it."*
