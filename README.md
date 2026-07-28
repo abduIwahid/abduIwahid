@@ -50,7 +50,7 @@ me.say_hi()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdu1wahid-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=222222)](https://linkedin.com/in/abdu1wahid)
 [![Email](https://img.shields.io/badge/Email-inbox.abdulwahid%40gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=222222)](mailto:inbox.abdulwahid@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-ffffff?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000&color=222222)](https://wa.me/923078141252)
-[![CV](https://img.shields.io/badge/Download%20CV-Google%20Drive-ffffff?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=000000&color=222222)](https://abdul-wahid-portfolio.vercel.app/CV.pdf)
+[![CV](https://img.shields.io/badge/Download%20CV-Google%20Drive-ffffff?style=for-the-badge&logo=Link&logoColor=white&labelColor=000000&color=222222)](https://abdul-wahid-portfolio.vercel.app/CV.pdf)
 
 </div>
 
