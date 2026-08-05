@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=abduIwahid&label=Profile%20Views&style=flat-square&color=222222&labelColor=000000" alt="Profile Views"/>
 
 <a href="https://abdul-wahid-portfolio.vercel.app/CV.pdf">
-  <img src="https://img.shields.io/badge/Download%20CV-000000?style=flat-square&logo=googledrive&logoColor=white&color=222222" alt="CV"/>
+  <img src="https://img.shields.io/badge/Download%20CV-000000?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/>
 </a>
 
 </div>
