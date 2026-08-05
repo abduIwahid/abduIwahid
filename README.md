@@ -195,10 +195,10 @@ me.say_hi()
 
 | Project | Description | Links |
 |:-------:|:------------|:------|
-| **MediSight** | A full-stack AI-powered clinical assistant. Integrated FastAPI ML services with Next.js & Supabase, managing MLOps and production CI/CD pipelines. | [🔗 Live Demo](#) |
-| **Predictly** | A robust machine learning platform for predictive analytics and data-driven insights. | [🔗 Live Demo](#) |
-| **[Churnex](https://github.com/abduIwahid/Customer-Churn-Prediction)** | AI-powered customer churn prediction platform built with a Multi-Layer Perceptron (MLP) neural network, SHAP explainability, and a FastAPI backend with a dark glassmorphism UI. | [🔗 Live Demo](#)<br/>[Source](https://github.com/abduIwahid/Customer-Churn-Prediction) |
-| **[Smart Doctor Connect](https://github.com/abduIwahid/Smart-Doctor-Connect)** | A specialized healthcare assistant leveraging AI/ML to enhance medical decision-making and accessibility, developed during the MTM AI Hackathon. | [🔗 Live Demo](#)<br/>[Source](https://github.com/abduIwahid/Smart-Doctor-Connect) |
+| **[MediSight](https://github.com/abduIwahid/Ezitech-Internship)** | A full-stack AI-powered clinical assistant. Integrated FastAPI ML services with Next.js & Supabase, managing MLOps and production CI/CD pipelines. | [🔗 Live Demo](https://ezitech-internship.vercel.app/) |
+| **[Predictly](https://github.com/abduIwahid/Predictly)** | A robust machine learning platform for predictive analytics and data-driven insights. | [🔗 Live Demo](https://predict-home.vercel.app/) |
+| **[Churnex](https://github.com/abduIwahid/Customer-Churn-Prediction)** | AI-powered customer churn prediction platform built with a Multi-Layer Perceptron (MLP) neural network, SHAP explainability, and a FastAPI backend with a dark glassmorphism UI. | [🔗 Live Demo](https://churnex.vercel.app/) |
+| **[Smart Doctor Connect](https://github.com/abduIwahid/Smart-Doctor-Connect)** | A specialized healthcare assistant leveraging AI/ML to enhance medical decision-making and accessibility, developed during the MTM AI Hackathon. | [🔗 Live Demo](https://smartdoctor-ai.vercel.app/) |
 
 </div>
 
