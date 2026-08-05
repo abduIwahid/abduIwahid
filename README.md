@@ -43,14 +43,16 @@ me.say_hi()
 
 ## 🔗 Connect With Me
 
-<div align="left">
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdulwahid.me-ffffff?style=for-the-badge&labelColor=000000&color=222222)](https://www.abdulwahid.me)<br/>
-[![GitHub](https://img.shields.io/badge/GitHub-abduIwahid-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=222222)](https://github.com/abduIwahid)<br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdu1wahid-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=222222)](https://linkedin.com/in/abdu1wahid)<br/>
-[![Email](https://img.shields.io/badge/Email-inbox.abdulwahid%40gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=222222)](mailto:inbox.abdulwahid@gmail.com)<br/>
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-ffffff?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000&color=222222)](https://wa.me/923078141252)<br/>
-[![CV](https://img.shields.io/badge/Download%20CV-Google%20Drive-ffffff?style=for-the-badge&logo=Link&logoColor=white&labelColor=000000&color=222222)](https://abdul-wahid-portfolio.vercel.app/CV.pdf)
+| Platform | Link |
+| :--- | :--- |
+| [![Portfolio](https://img.shields.io/badge/Portfolio-abdulwahid.me-ffffff?style=for-the-badge&labelColor=000000&color=222222)](https://www.abdulwahid.me) | [www.abdulwahid.me](https://www.abdulwahid.me) |
+| [![GitHub](https://img.shields.io/badge/GitHub-abduIwahid-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=222222)](https://github.com/abduIwahid) | [github.com/abduIwahid](https://github.com/abduIwahid) |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-abdu1wahid-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=222222)](https://linkedin.com/in/abdu1wahid) | [linkedin.com/in/abdu1wahid](https://linkedin.com/in/abdu1wahid) |
+| [![Email](https://img.shields.io/badge/Email-inbox.abdulwahid%40gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=222222)](mailto:inbox.abdulwahid@gmail.com) | [inbox.abdulwahid@gmail.com](mailto:inbox.abdulwahid@gmail.com) |
+| [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-ffffff?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000&color=222222)](https://wa.me/923078141252) | [WhatsApp Chat](https://wa.me/923078141252) |
+| [![CV](https://img.shields.io/badge/Download%20CV-Google%20Drive-ffffff?style=for-the-badge&logo=Link&logoColor=white&labelColor=000000&color=222222)](https://abdul-wahid-portfolio.vercel.app/CV.pdf) | [Download CV](https://abdul-wahid-portfolio.vercel.app/CV.pdf) |
 
 </div>
 
