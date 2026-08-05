@@ -18,8 +18,22 @@
 
 ## 🧠 About Me
 
-<div align="center">
-  <img src="./assets/about-me-card.svg" alt="Animated About Me Card" width="100%" />
+<div align="left">
+
+👋 Hi, I'm **Abdul Wahid**, a passionate **AI/ML Developer** and **Software Engineer** based in Pakistan 🇵🇰. I am currently pursuing my BS in Artificial Intelligence at COMSATS University.
+
+My expertise lies in building intelligent systems, creating predictive models, and engineering robust full-stack MLOps pipelines. I am deeply obsessed with elegant code, data science, and pushing the boundaries of what AI can do in real-world applications. 
+
+<br/>
+
+**Core Focus Areas:**
+- 🤖 **Machine Learning & Deep Learning**
+- 🛠️ **End-to-End MLOps & Deployment**
+- ⚙️ **Backend API Development (FastAPI, Node.js)**
+- 📊 **Data Science & Analytics**
+
+*Always eager to explore new technologies and actively open to exciting opportunities! 🚀*
+
 </div>
 
 ---
