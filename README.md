@@ -11,6 +11,9 @@
   <img src="https://img.shields.io/github/followers/abduIwahid?label=Followers&style=flat-square&color=222222&labelColor=000000" alt="Followers"/>
 </a>
 <img src="https://img.shields.io/badge/Available%20for%20Opportunities-%E2%9C%85-222222?style=flat-square&labelColor=000000" alt="Available"/>
+<a href="https://abdul-wahid-portfolio.vercel.app/CV.pdf">
+  <img src="https://img.shields.io/badge/Download%20CV-000000?style=flat-square&logo=googledrive&logoColor=white&color=222222" alt="CV"/>
+</a>
 
 </div>
 
@@ -45,12 +48,11 @@ me.say_hi()
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://www.abdulwahid.me)
-[![GitHub](https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/abduIwahid)
-[![LinkedIn](https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/abdu1wahid)
-[![Email](https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:inbox.abdulwahid@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-000000?style=for-the-badge&logo=whatsapp&logoColor=ffffff)](https://wa.me/923078141252)
-[![CV](https://img.shields.io/badge/-000000?style=for-the-badge&logo=googledrive&logoColor=ffffff)](https://abdul-wahid-portfolio.vercel.app/CV.pdf)
+[![Portfolio](https://img.shields.io/badge/-000000?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://www.abdulwahid.me)
+[![GitHub](https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abduIwahid)
+[![LinkedIn](https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdu1wahid)
+[![Email](https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inbox.abdulwahid@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923078141252)
 
 </div>
 
@@ -82,7 +84,7 @@ me.say_hi()
 **Tools & Platforms**<br/>
 ![Git](https://img.shields.io/badge/-000000?style=for-the-badge&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/-000000?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-000000?style=for-the-badge&logo=jupyter&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-000000?style=for-the-badge&logo=linux&logoColor=ffffff)
 
