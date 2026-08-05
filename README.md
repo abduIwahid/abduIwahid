@@ -7,10 +7,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=abduIwahid&label=Profile%20Views&style=flat-square&color=222222&labelColor=000000" alt="Profile Views"/>
-<a href="https://github.com/abduIwahid?tab=followers">
-  <img src="https://img.shields.io/github/followers/abduIwahid?label=Followers&style=flat-square&color=222222&labelColor=000000" alt="Followers"/>
-</a>
-<img src="https://img.shields.io/badge/Available%20for%20Opportunities-%E2%9C%85-222222?style=flat-square&labelColor=000000" alt="Available"/>
+
 <a href="https://abdul-wahid-portfolio.vercel.app/CV.pdf">
   <img src="https://img.shields.io/badge/Download%20CV-000000?style=flat-square&logo=googledrive&logoColor=white&color=222222" alt="CV"/>
 </a>
@@ -36,7 +33,7 @@ class AbdulWahid:
         self.available   = True  # Open to opportunities!
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing with AI 🚀")
+        print("Thanks for stopping by! Let's build something amazing with AI")
 
 me = AbdulWahid()
 me.say_hi()
@@ -48,9 +45,9 @@ me.say_hi()
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-000000?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://www.abdulwahid.me)
+[![Portfolio](https://img.shields.io/badge/-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMHptNi44MzcgNS43NTNsLTMuMzI4IDEuOTU2Yy40NTEtLjkzLjc1NC0xLjkyLjg5NC0yLjkyMyAxLjE1Ni4wOTkgMi4yMS40NjQgMy4wOSAxLjAxOGwtLjY1Ni0uMDUxem0tNS40ODUtMy4zNzZjMS4zNzguMTA2IDIuNjU2Ljc0MSAzLjY1NCAxLjcwN2wtMy41NyAyLjA5N2MtLjAxNS0uODE1LS4wNTItMS42MTEtLjExNi0yLjM4NHYtMS40MnptLTIuODItLjI5NHYxLjQ0MmMtLjA2Ny43OTQtLjEwNSAxLjYxMS0uMTIyIDIuNDQzTDYuODcgMy44ODJjMS4wMi0xLjAyNSAyLjMzNi0xLjcwOCAzLjc1Ny0xLjgxNWwtLjEyNC4wMTd6bS00LjM5NCAxLjk3N2wzLjUwNCAyLjA1N2MtLjEyMiAxLjA1NC0uMzkzIDIuMDk3LS44MDMgMy4xMDRsLTMuNjYzLTIuMTVjLjE2Mi0uOTc5LjUyMS0xLjg5NSAxLjA1NC0yLjcybC0uMDkyLS4yOTF6bS0xLjg5IDMuMTExbDMuNzUgMi4yMDJjLS41MiAxLjA5Ni0xLjEyNyAyLjEyNy0xLjc5NCAzLjA5N2wtMy43OTItMi4yMjdjLjUwNC0xLjA1OCAxLjE0NC0yLjA0NSAxLjgzNi0zLjA3MnptLTIuMDIzIDMuNjI2bDMuODcgMi4yNzRjLS42NzIgMS4wNDctMS40MDUgMi4wNTQtMi4xODggMy4wMTFsLTMuOTIxLTIuMzA0Yy41OTQtMS4wMDIgMS4zNDEtMS45NTQgMi4yMzktMi45ODF6bTIuMzY4IDMuNTI4bDMuOTYzIDIuMzI3Yy0uODg2Ljk3NC0xLjg0OCAxLjg5NS0yLjg2OCAyLjc2NkwzLjkyIDE3LjU4N2MuODAxLS45ODkgMS43NTgtMS45MzQgMi42NzUtMi44NzFsLS4xMDUtLjM5em0zLjE3OCAzLjIzOWwzLjk5OSAyLjM1Yy0xLjE0NC44MjUtMi4zNjggMS41NzktMy42NTUgMi4yNTlsLTMuOTgtMi4zNGMxLjE1Ny0uNzA0IDIuMzQxLTEuNDY0IDMuNjM2LTIuMjY5em00LjI3NiAyLjY4bDQuMDMyIDIuMzY4Yy0xLjQzOS41NjctMi45NTEuOTk2LTQuNTIxIDEuMjgydi0zLjY1em00Ljg0Ni0xLjUwM2w0LjAzLTIuMzY3Yy0uMjAxIDEuMDI3LS41MTQgMi4wMjItLjkyNiAyLjk3MmwtNC4wMDQtMi4zNTJjLjI4Ny0uODAxLjUyMy0xLjYxLjY4OC0yLjQyOGwuMjEyLTEuMjU4em0tLjY3LTMuMTM2bDMuOTc4LTIuMzM2Yy0uMzY1IDEuMDgyLS44MjMgMi4xMjItMS4zNjUgMy4xMTJsLTMuOTI3IDIuMzA4Yy40NTEtLjk1NC44MzYtMS45MjEgMS4xMzctMi44OThsLjE3Ny0xLjExOHptLTEuMDk2LTMuMTU1bDMuODQ0LTIuMjU4Yy0uNTI0IDEuMTE0LTEuMTM5IDIuMTg0LTEuODMgMy4yMDNMMTguNDkgMTYuNTljLjYwMi0uOTc3IDEuMTQ0LTEuOTg2IDEuNjExLTMuMDAzbC4wODMtLjc1NXoiLz48L3N2Zz4=)](https://www.abdulwahid.me)
 [![GitHub](https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abduIwahid)
-[![LinkedIn](https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdu1wahid)
+[![LinkedIn](https://img.shields.io/badge/-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+)](https://linkedin.com/in/abdu1wahid)
 [![Email](https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inbox.abdulwahid@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923078141252)
 
@@ -68,7 +65,6 @@ me.say_hi()
 <br/><br/>
 
 **AI / Machine Learning**<br/>
-![TensorFlow](https://img.shields.io/badge/-000000?style=for-the-badge&logo=tensorflow&logoColor=ffffff)
 ![scikit-learn](https://img.shields.io/badge/-000000?style=for-the-badge&logo=scikit-learn&logoColor=ffffff)
 ![NumPy](https://img.shields.io/badge/-000000?style=for-the-badge&logo=numpy&logoColor=ffffff)
 ![Pandas](https://img.shields.io/badge/-000000?style=for-the-badge&logo=pandas&logoColor=ffffff)
@@ -84,9 +80,8 @@ me.say_hi()
 **Tools & Platforms**<br/>
 ![Git](https://img.shields.io/badge/-000000?style=for-the-badge&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTIzLjE1IDIuNTg3TDE4LjIxLjIxYTEuNDk0IDEuNDk0IDAgMCAwLTEuNzA1LjI5bC05LjQ2IDguNjMtNC4xMi0zLjEyOGEuOTk5Ljk5OSAwIDAgMC0xLjI3Ni4wNTdMLjMyNyA3LjI2MUExIDEgMCAwIDAgLjMyNiA4Ljc0TDMuODk5IDEyIC4zMjYgMTUuMjZhMSAxIDAgMCAwIC4wMDEgMS40NzlMMS42NSAxNy45NGEuOTk5Ljk5OSAwIDAgMCAxLjI3Ni4wNTdsNC4xMi0zLjEyOCA5LjQ2IDguNjNhMS40OTIgMS40OTIgMCAwIDAgMS43MDQuMjlsNC45NDItMi4zNzdBMS41IDEuNSAwIDAgMCAyNCAyMC4wNlYzLjkzOWExLjUgMS41IDAgMCAwLS44NS0xLjM1MnptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPg==)
 ![Jupyter](https://img.shields.io/badge/-000000?style=for-the-badge&logo=jupyter&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-000000?style=for-the-badge&logo=linux&logoColor=ffffff)
 
 </div>
 
@@ -115,9 +110,9 @@ me.say_hi()
 
 <div align="center">
 
-| Degree | Institution | Status |
-|:------:|:-----------:|:------:|
-| 🎓 BS Artificial Intelligence | COMSATS University Islamabad, ATTOCK Campus | 🟢 In Progress |
+| Degree | Institution | Semester | CGPA |
+|:------:|:-----------:|:------:|:------:|
+| 🎓 BS Artificial Intelligence | COMSATS University Islamabad, ATTOCK Campus | 5th | 3.46 |
 
 </div>
 
@@ -219,7 +214,6 @@ me.say_hi()
 |:---:|:-----|
 | 🧩 | I see every problem as a dataset waiting to be understood |
 | 🐍 | Python is my weapon of choice for ML experimentation |
-| ☕ | Debugging fuel: chai (obviously — it's Pakistan 🇵🇰) |
 | 🎯 | Goal: Leverage AI to make a real-world impact |
 
 </div>
