@@ -12,6 +12,11 @@
 </a>
 <img src="https://img.shields.io/badge/Available%20for%20Opportunities-%E2%9C%85-222222?style=flat-square&labelColor=000000" alt="Available"/>
 
+<br/>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=abduIwahid&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+
 </div>
 
 ---
@@ -73,6 +78,13 @@ me.say_hi()
 ![Pandas](https://img.shields.io/badge/Pandas-ffffff?style=for-the-badge&logo=pandas&logoColor=000000&labelColor=ffffff)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=000000&labelColor=ffffff)
 
+**Web & Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-ffffff?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=000000&labelColor=ffffff)
+![Supabase](https://img.shields.io/badge/Supabase-ffffff?style=for-the-badge&logo=supabase&logoColor=3ECF8E&labelColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=000000)
+
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=000000&labelColor=ffffff)
@@ -97,11 +109,17 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=abduIwahid&theme=github-dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border_radius=10&dates=aaaaaa&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak" width="500"/>
+<img src="https://streak-stats.demolab.com?user=abduIwahid&theme=github-dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border_radius=10&dates=aaaaaa&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduIwahid&layout=compact&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&text_color=aaaaaa" alt="Top Languages" width="48%"/>
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abduIwahid&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true&area=true&area_color=333333&radius=8" width="100%" alt="Activity Graph"/>
+
+<br/>
+<br/>
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
 
 </div>
 
