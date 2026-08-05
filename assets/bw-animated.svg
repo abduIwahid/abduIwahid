@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300">
+    <defs>
+        <style>
+            .bg { fill: #000000; }
+            .grid { stroke: #111111; stroke-width: 1; }
+            
+            /* Animated border */
+            .border { 
+                fill: none; 
+                stroke: #ffffff; 
+                stroke-width: 1; 
+                stroke-dasharray: 2400; 
+                stroke-dashoffset: 2400; 
+                animation: draw 2s ease-out forwards; 
+            }
+            
+            /* Typography */
+            .text-main { 
+                font-family: 'Courier New', monospace; 
+                font-size: 24px; 
+                font-weight: bold; 
+                fill: #ffffff; 
+                opacity: 0; 
+                animation: fade 1s forwards 0.5s; 
+            }
+            
+            .text-sub { 
+                font-family: 'Courier New', monospace; 
+                font-size: 16px; 
+                fill: #aaaaaa; 
+                opacity: 0; 
+            }
+            
+            /* Staggered text animations */
+            .t1 { animation: slideUp 0.5s forwards 1.2s; }
+            .t2 { animation: slideUp 0.5s forwards 1.4s; }
+            .t3 { animation: slideUp 0.5s forwards 1.6s; }
+            .t4 { animation: slideUp 0.5s forwards 1.8s; }
+            .t5 { animation: slideUp 0.5s forwards 2.0s; }
+            
+            .highlight { fill: #ffffff; font-weight: bold; }
+            
+            /* Blinking Cursor */
+            .cursor { 
+                font-family: 'Courier New', monospace; 
+                font-size: 24px; 
+                fill: #ffffff; 
+                animation: blink 1s step-end infinite; 
+            }
+            
+            /* Glitch/Scanline effect */
+            .scanline { 
+                fill: rgba(255, 255, 255, 0.03); 
+                width: 800px; 
+                height: 10px; 
+                animation: scan 3s linear infinite; 
+                pointer-events: none;
+            }
+
+            @keyframes draw { to { stroke-dashoffset: 0; } }
+            @keyframes fade { to { opacity: 1; } }
+            
+            @keyframes slideUp { 
+                from { opacity: 0; transform: translateY(8px); } 
+                to { opacity: 1; transform: translateY(0); } 
+            }
+            
+            @keyframes blink { 
+                0%, 100% { opacity: 1; } 
+                50% { opacity: 0; } 
+            }
+            
+            @keyframes scan { 
+                0% { transform: translateY(0px); } 
+                100% { transform: translateY(300px); } 
+            }
+        </style>
+    </defs>
+
+    <!-- Background -->
+    <rect class="bg" width="800" height="300" />
+    
+    <!-- Subtle Grid Pattern -->
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+        <path d="M 40 0 L 0 0 0 40" fill="none" class="grid" />
+    </pattern>
+    <rect width="800" height="300" fill="url(#gridPattern)" />
+
+    <!-- Animated Border -->
+    <rect class="border" x="15" y="15" width="770" height="270" />
+    
+    <!-- Corner Decorators -->
+    <path d="M 15 35 L 35 15" stroke="#ffffff" stroke-width="2" fill="none" />
+    <path d="M 765 285 L 785 265" stroke="#ffffff" stroke-width="2" fill="none" />
+    <path d="M 15 265 L 35 285" stroke="#ffffff" stroke-width="2" fill="none" />
+    <path d="M 765 15 L 785 35" stroke="#ffffff" stroke-width="2" fill="none" />
+
+    <!-- Group containing text elements -->
+    <g transform="translate(45, 65)">
+        <text class="text-main" x="0" y="0">
+            > SYSTEM_INIT: <tspan fill="#ffffff">ABDUL_WAHID</tspan><tspan class="cursor" dx="2">_</tspan>
+        </text>
+        
+        <text class="text-sub t1" x="0" y="45">
+            [ROLE]      <tspan class="highlight">AI / ML Developer &amp; Software Engineer</tspan>
+        </text>
+        <text class="text-sub t2" x="0" y="80">
+            [LOCATION]  Pakistan
+        </text>
+        <text class="text-sub t3" x="0" y="115">
+            [EXPERTISE] Machine Learning, MLOps, Backend (FastAPI)
+        </text>
+        <text class="text-sub t4" x="0" y="150">
+            [STATUS]    Building predictive models &amp; full-stack AI apps
+        </text>
+        <text class="text-sub t5" x="0" y="185">
+            [MISSION]   Transforming data into intelligent solutions
+        </text>
+        
+        <!-- Progress bar decorator -->
+        <g class="t5" transform="translate(0, 210)">
+            <rect width="680" height="1" fill="#222222" />
+            <rect width="0" height="1" fill="#ffffff">
+                <animate attributeName="width" from="0" to="680" dur="1.5s" begin="2.2s" fill="freeze" />
+            </rect>
+            <text x="690" y="4" font-family="'Courier New', monospace" font-size="10px" fill="#ffffff">OK</text>
+        </g>
+    </g>
+
+    <!-- Scanline Overlay -->
+    <rect class="scanline" x="0" y="0" />
+</svg>
