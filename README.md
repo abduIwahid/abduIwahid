@@ -45,17 +45,12 @@ me.say_hi()
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&labelColor=000000&color=222222)](https://www.abdulwahid.me)
-
-[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=222222)](https://github.com/abduIwahid)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=222222)](https://linkedin.com/in/abdu1wahid)
-
-[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=222222)](mailto:inbox.abdulwahid@gmail.com)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-ffffff?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000&color=222222)](https://wa.me/923078141252)
-
-[![CV](https://img.shields.io/badge/Download%20CV-ffffff?style=for-the-badge&logo=Link&logoColor=white&labelColor=000000&color=222222)](https://abdul-wahid-portfolio.vercel.app/CV.pdf)
+[![Portfolio](https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://www.abdulwahid.me)
+[![GitHub](https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/abduIwahid)
+[![LinkedIn](https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/abdu1wahid)
+[![Email](https://img.shields.io/badge/-000000?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:inbox.abdulwahid@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-000000?style=for-the-badge&logo=whatsapp&logoColor=ffffff)](https://wa.me/923078141252)
+[![CV](https://img.shields.io/badge/-000000?style=for-the-badge&logo=googledrive&logoColor=ffffff)](https://abdul-wahid-portfolio.vercel.app/CV.pdf)
 
 </div>
 
@@ -65,41 +60,31 @@ me.say_hi()
 
 <div align="center">
 
-**Languages**
+**Languages**<br/>
+![Python](https://img.shields.io/badge/-000000?style=for-the-badge&logo=python&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-000000?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+<br/><br/>
 
-![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=000000&labelColor=ffffff)
-![Java](https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=openjdk&logoColor=000000&labelColor=ffffff)
+**AI / Machine Learning**<br/>
+![TensorFlow](https://img.shields.io/badge/-000000?style=for-the-badge&logo=tensorflow&logoColor=ffffff)
+![scikit-learn](https://img.shields.io/badge/-000000?style=for-the-badge&logo=scikit-learn&logoColor=ffffff)
+![NumPy](https://img.shields.io/badge/-000000?style=for-the-badge&logo=numpy&logoColor=ffffff)
+![Pandas](https://img.shields.io/badge/-000000?style=for-the-badge&logo=pandas&logoColor=ffffff)
+<br/><br/>
 
-**AI / Machine Learning**
+**Web & Backend**<br/>
+![FastAPI](https://img.shields.io/badge/-000000?style=for-the-badge&logo=fastapi&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Supabase](https://img.shields.io/badge/-000000?style=for-the-badge&logo=supabase&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-000000?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
+<br/><br/>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ffffff?style=for-the-badge&logo=tensorflow&logoColor=000000&labelColor=ffffff)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ffffff?style=for-the-badge&logo=scikit-learn&logoColor=000000&labelColor=ffffff)
-![NumPy](https://img.shields.io/badge/NumPy-ffffff?style=for-the-badge&logo=numpy&logoColor=000000&labelColor=ffffff)
-![Pandas](https://img.shields.io/badge/Pandas-ffffff?style=for-the-badge&logo=pandas&logoColor=000000&labelColor=ffffff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=000000&labelColor=ffffff)
-
-**Web & Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-ffffff?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=000000)
-![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=000000&labelColor=ffffff)
-![Supabase](https://img.shields.io/badge/Supabase-ffffff?style=for-the-badge&logo=supabase&logoColor=3ECF8E&labelColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=000000)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=000000&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000&labelColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS%20Code-ffffff?style=for-the-badge&logo=visual-studio-code&logoColor=000000&labelColor=ffffff)
-![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?style=for-the-badge&logo=jupyter&logoColor=000000&labelColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=000000&labelColor=ffffff)
-
-**Core Competencies**
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ffffff?style=flat-square&labelColor=111111&color=333333)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-ffffff?style=flat-square&labelColor=111111&color=333333)
-![Algorithms](https://img.shields.io/badge/Algorithms-ffffff?style=flat-square&labelColor=111111&color=333333)
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-ffffff?style=flat-square&labelColor=111111&color=333333)
-![Data Science](https://img.shields.io/badge/Data%20Science-ffffff?style=flat-square&labelColor=111111&color=333333)
+**Tools & Platforms**<br/>
+![Git](https://img.shields.io/badge/-000000?style=for-the-badge&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-000000?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Jupyter](https://img.shields.io/badge/-000000?style=for-the-badge&logo=jupyter&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-000000?style=for-the-badge&logo=linux&logoColor=ffffff)
 
 </div>
 
