@@ -12,11 +12,6 @@
 </a>
 <img src="https://img.shields.io/badge/Available%20for%20Opportunities-%E2%9C%85-222222?style=flat-square&labelColor=000000" alt="Available"/>
 
-<br/>
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=abduIwahid&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-
 </div>
 
 ---
@@ -109,8 +104,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=abduIwahid&theme=github-dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border_radius=10&dates=aaaaaa&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduIwahid&layout=compact&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&text_color=aaaaaa" alt="Top Languages" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=abduIwahid&theme=github-dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border_radius=10&dates=aaaaaa&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak" width="500"/>
 
 <br/>
 
@@ -119,7 +113,7 @@ me.say_hi()
 <br/>
 <br/>
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%"/>
 
 </div>
 
@@ -199,12 +193,12 @@ me.say_hi()
 
 <div align="center">
 
-| Project | Description | Focus |
+| Project | Description | Links |
 |:-------:|:------------|:------|
-| **MediSight Clinical Platform** | Developing a full-stack AI-powered clinical assistant. Integrated FastAPI ML services with Next.js & Supabase, managing MLOps and production CI/CD pipelines. | Full-Stack AI & MLOps |
-| **[Customer-Churn-Prediction](https://github.com/abduIwahid/Customer-Churn-Prediction)** | 📊 Built predictive models (Random Forest, MLP) and clustering (K-Means) using the Telco dataset to analyze customer retention strategies. | Machine Learning |
-| **[Freelance-MarketPlace](https://github.com/abduIwahid/Freelance-MarketPlace-Management-System)** | Designed an efficient SQL-based backend system for managing freelancers, clients, bids, and payments with optimized transactions. | Database Design |
-| **[Odysseus](https://github.com/abduIwahid/odysseus)** | Self-hosted AI workspace platform. | AI Infrastructure |
+| **MediSight** | A full-stack AI-powered clinical assistant. Integrated FastAPI ML services with Next.js & Supabase, managing MLOps and production CI/CD pipelines. | [🔗 Live Demo](#) |
+| **Predictly** | A robust machine learning platform for predictive analytics and data-driven insights. | [🔗 Live Demo](#) |
+| **[Churnex](https://github.com/abduIwahid/Customer-Churn-Prediction)** | AI-powered customer churn prediction platform built with a Multi-Layer Perceptron (MLP) neural network, SHAP explainability, and a FastAPI backend with a dark glassmorphism UI. | [🔗 Live Demo](#)<br/>[Source](https://github.com/abduIwahid/Customer-Churn-Prediction) |
+| **[Smart Doctor Connect](https://github.com/abduIwahid/Smart-Doctor-Connect)** | A specialized healthcare assistant leveraging AI/ML to enhance medical decision-making and accessibility, developed during the MTM AI Hackathon. | [🔗 Live Demo](#)<br/>[Source](https://github.com/abduIwahid/Smart-Doctor-Connect) |
 
 </div>
 
