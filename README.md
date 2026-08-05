@@ -18,44 +18,27 @@
 
 ## 🧠 About Me
 
-```python
-class AbdulWahid:
-    def __init__(self):
-        self.name        = "Abdul Wahid"
-        self.role        = "AI / ML Developer"
-        self.university  = "COMSATS University Islamabad, ATTOCK Campus"
-        self.degree      = "BS Artificial Intelligence"
-        self.location    = "Pakistan 🇵🇰"
-        self.email       = "inbox.abdulwahid@gmail.com"
-        self.website     = "https://www.abdulwahid.me"
-        self.languages   = ["Python", "Java"]
-        self.interests   = ["Machine Learning", "Data Science", "Software Engineering", "AI Research"]
-        self.available   = True  # Open to opportunities!
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing with AI 🚀")
-
-me = AbdulWahid()
-me.say_hi()
-```
+<div align="center">
+  <img src="./assets/about-me-card.svg" alt="Animated About Me Card" width="100%" />
+</div>
 
 ---
 
 ## 🔗 Connect With Me
 
-<div align="left">
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdulwahid.me-ffffff?style=for-the-badge&labelColor=000000&color=222222)](https://www.abdulwahid.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge&labelColor=000000&color=222222)](https://www.abdulwahid.me)
 
-[![GitHub](https://img.shields.io/badge/GitHub-abduIwahid-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=222222)](https://github.com/abduIwahid)
+[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=222222)](https://github.com/abduIwahid)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdu1wahid-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=222222)](https://linkedin.com/in/abdu1wahid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=222222)](https://linkedin.com/in/abdu1wahid)
 
-[![Email](https://img.shields.io/badge/Email-inbox.abdulwahid%40gmail.com-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=222222)](mailto:inbox.abdulwahid@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=222222)](mailto:inbox.abdulwahid@gmail.com)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-ffffff?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000&color=222222)](https://wa.me/923078141252)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-ffffff?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000&color=222222)](https://wa.me/923078141252)
 
-[![CV](https://img.shields.io/badge/Download%20CV-Google%20Drive-ffffff?style=for-the-badge&logo=Link&logoColor=white&labelColor=000000&color=222222)](https://abdul-wahid-portfolio.vercel.app/CV.pdf)
+[![CV](https://img.shields.io/badge/Download%20CV-ffffff?style=for-the-badge&logo=Link&logoColor=white&labelColor=000000&color=222222)](https://abdul-wahid-portfolio.vercel.app/CV.pdf)
 
 </div>
 
