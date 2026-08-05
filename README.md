@@ -177,6 +177,21 @@ me.say_hi()
 
 ---
 
+## 🚀 Recent Projects & Contributions
+
+<div align="center">
+
+| Project | Description | Focus |
+|:-------:|:------------|:------|
+| **MediSight Clinical Platform** | Developing a full-stack AI-powered clinical assistant. Integrated FastAPI ML services with Next.js & Supabase, managing MLOps and production CI/CD pipelines. | Full-Stack AI & MLOps |
+| **[Customer-Churn-Prediction](https://github.com/abduIwahid/Customer-Churn-Prediction)** | 📊 Built predictive models (Random Forest, MLP) and clustering (K-Means) using the Telco dataset to analyze customer retention strategies. | Machine Learning |
+| **[Freelance-MarketPlace](https://github.com/abduIwahid/Freelance-MarketPlace-Management-System)** | Designed an efficient SQL-based backend system for managing freelancers, clients, bids, and payments with optimized transactions. | Database Design |
+| **[Odysseus](https://github.com/abduIwahid/odysseus)** | Self-hosted AI workspace platform. | AI Infrastructure |
+
+</div>
+
+---
+
 ## 💼 What I'm Working On
 
 <div align="center">
