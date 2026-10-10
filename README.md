@@ -132,61 +132,8 @@ me.say_hi()
 
 <h2 align="center">Recent Projects & Contributions</h2>
 
-<table>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/MediSight-Healthcare-Platform"><b>MediSight</b></a><br/><sub>Healthcare AI</sub></td>
-    <td valign="top">
-      A full-stack AI-powered clinical assistant. Integrated FastAPI ML services with Next.js & Supabase, managing MLOps and production CI/CD pipelines.<br/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-21262D?style=flat-square" alt="FastAPI"/>
-      <img src="https://img.shields.io/badge/Next.js-21262D?style=flat-square" alt="Next.js"/>
-      <img src="https://img.shields.io/badge/Supabase-21262D?style=flat-square" alt="Supabase"/>
-      <img src="https://img.shields.io/badge/LightGBM-21262D?style=flat-square" alt="LightGBM"/>
-      <img src="https://img.shields.io/badge/AUC--ROC-0.8307-F0F6FC?style=flat-square" alt="AUC-ROC 0.8307"/><br/><br/>
-      <a href="https://github.com/abduIwahid/MediSight-Healthcare-Platform">Repository</a> · <a href="https://medisight-healthcare.vercel.app/welcome">Live Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://github.com/abduIwahid/Predictly"><b>Predictly</b></a><br/><sub>Predictive Analytics</sub></td>
-    <td valign="top">
-      A robust machine learning platform for predictive analytics and data-driven insights.<br/><br/>
-      <a href="https://github.com/abduIwahid/Predictly">Repository</a> · <a href="https://predict-home.vercel.app/">Live Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://github.com/abduIwahid/Customer-Churn-Prediction"><b>Churnex</b></a><br/><sub>Customer Churn</sub></td>
-    <td valign="top">
-      AI-powered customer churn prediction platform built with a Multi-Layer Perceptron (MLP) neural network, SHAP explainability, and a FastAPI backend with a dark glassmorphism UI.<br/><br/>
-      <img src="https://img.shields.io/badge/MLP-21262D?style=flat-square" alt="MLP"/>
-      <img src="https://img.shields.io/badge/SHAP-21262D?style=flat-square" alt="SHAP"/>
-      <img src="https://img.shields.io/badge/FastAPI-21262D?style=flat-square" alt="FastAPI"/><br/><br/>
-      <a href="https://github.com/abduIwahid/Customer-Churn-Prediction">Repository</a> · <a href="https://churnex.vercel.app/">Live Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><a href="https://github.com/abduIwahid/Smart-Doctor-Connect"><b>Smart Doctor Connect</b></a><br/><sub>MTM AI Hackathon</sub></td>
-    <td valign="top">
-      A specialized healthcare assistant leveraging AI/ML to enhance medical decision-making and accessibility, developed during the MTM AI Hackathon.<br/><br/>
-      <a href="https://github.com/abduIwahid/Smart-Doctor-Connect">Repository</a> · <a href="https://smartdoctor-ai.vercel.app/">Live Demo</a>
-    </td>
-  </tr>
-  <!-- NEW -->
-  <tr>
-    <td valign="top"><a href="https://github.com/abduIwahid/fa24-bai"><b>Study Hubb</b></a><br/><sub>Study Platform</sub></td>
-    <td valign="top">
-      A study hub for the FA24-BAI 5th semester cohort, with an AI assistant powered by the Gemini API.<br/><br/>
-      <img src="https://img.shields.io/badge/Gemini%20API-21262D?style=flat-square" alt="Gemini API"/><br/><br/>
-      <a href="https://github.com/abduIwahid/fa24-bai">Repository</a> · <a href="https://fa24-bai.vercel.app">Live Demo</a>
-    </td>
-  </tr>
-  <!-- NEW: confirm this repo is public, otherwise remove the Repository link -->
-  <tr>
-    <td valign="top"><a href="https://github.com/abduIwahid/epms"><b>EPMS</b></a><br/><sub>Web Technologies Project</sub></td>
-    <td valign="top">
-      Enterprise Project Management System: a full-stack engineering collaboration platform with sprints, tasks, a drag-and-drop Kanban board, threaded comments with @mentions, real-time updates, and Admin / Project Manager / Team Member roles.<br/><br/>
-      <a href="https://github.com/abduIwahid/epms">Repository</a>
-    </td>
-  </tr>
-</table>
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
 
 <details>
 <summary><b>More projects</b></summary>
