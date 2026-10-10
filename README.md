@@ -92,7 +92,7 @@ me.say_hi()
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abduIwahid&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true&area=true&area_color=333333&radius=8" width="100%" alt="Activity Graph"/>
+<img src="./metrics.activity.svg" width="100%" alt="Activity"/>
 
 <br/>
 <br/>
