@@ -91,10 +91,6 @@ me.say_hi()
 <img src="https://streak-stats.demolab.com?user=abduIwahid&theme=github-dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border_radius=10&dates=aaaaaa&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak" width="500"/>
 
 <br/>
-
-<img src="./metrics.activity.svg" width="100%" alt="Activity"/>
-
-<br/>
 <br/>
 
 <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%"/>
