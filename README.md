@@ -23,7 +23,7 @@ class AbdulWahid:
         self.university  = "COMSATS University Islamabad, ATTOCK Campus"
         self.degree      = "BS Artificial Intelligence"
         self.location    = "Pakistan"
-        self.email       = "inbox.abdulwahid@gmail.com"
+        self.email       = "abdulwahid.connects@gmail.com"
         self.website     = "https://www.abdulwahid.me"
         self.languages   = ["Python", "Java"]
         self.interests   = ["Machine Learning", "Data Science", "Software Engineering", "AI Research"]
