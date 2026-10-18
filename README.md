@@ -4,13 +4,25 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:262626&height=210&section=header&text=Abdul%20Wahid&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning&descAlignY=60&descSize=17&animation=fadeIn" alt="Abdul Wahid — Artificial Intelligence and Machine Learning" width="100%"/>
 </a>
 
-<p>
-  <a href="https://abdulwahid.me"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/abdu1wahid"><img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/abduIwahid"><img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:contact@abdulwahid.me"><img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://abdul-wahid-portfolio.vercel.app/CV.pdf"><img src="https://img.shields.io/badge/CV-View%20PDF-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV"/></a>
-</p>
+<pre>
+┌──────────────────────────────────────────────────────────────────────┐
+│  CONNECT                                                             │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ◈  WEBSITE   <a href="https://abdulwahid.me">abdulwahid.me</a>                                     │
+│  ◉  GITHUB    <a href="https://github.com/abduIwahid">github.com/abduIwahid</a>                          │
+│  in LINKEDIN  <a href="https://www.linkedin.com/in/abdu1wahid">linkedin.com/in/abdu1wahid</a>                │
+│  @  EMAIL     <a href="mailto:contact@abdulwahid.me">contact@abdulwahid.me</a>                          │
+│  ▣  CV        <a href="https://abdul-wahid-portfolio.vercel.app/CV.pdf">View / Download CV (PDF)</a>                         │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+</pre>
+
+<pre>
+┌──(abdul@github)-[~]
+└─$ whoami
+   AI/ML student | Python developer | builder
+</pre>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=BS+Artificial+Intelligence+Student;Building+Practical+AI%2FML+Projects;Python+%7C+scikit-learn+%7C+FastAPI;Learning%2C+Building%2C+Improving" alt="Typing introduction"/>
 
@@ -171,11 +183,15 @@ A healthcare-assistant concept developed during the MTM AI Hackathon.
 
 ## Contact
 
-<p align="center">
-  <a href="https://abdulwahid.me"><img src="https://img.shields.io/badge/Website-abdulwahid.me-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-  <a href="https://www.linkedin.com/in/abdu1wahid"><img src="https://img.shields.io/badge/LinkedIn-Abdul%20Wahid-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:contact@abdulwahid.me"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<pre>
+┌──(abdul@github)-[~/contact]
+└─$ open --profiles
+
+  ◈  WEBSITE   <a href="https://abdulwahid.me">abdulwahid.me</a>
+  ◉  GITHUB    <a href="https://github.com/abduIwahid">github.com/abduIwahid</a>
+  in LINKEDIN  <a href="https://www.linkedin.com/in/abdu1wahid">linkedin.com/in/abdu1wahid</a>
+  @  EMAIL     <a href="mailto:contact@abdulwahid.me">contact@abdulwahid.me</a>
+</pre>
 
 <div align="center">
 
