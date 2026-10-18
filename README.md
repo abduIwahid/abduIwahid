@@ -3,12 +3,9 @@
 </a>
 <a href="https://github.com/abduIwahid"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&width=620&height=36&lines=BS+Artificial+Intelligence+Student;Machine+Learning+%7C+Data+Science;Full-Stack+%26+Software+Engineering;Learn+by+building." alt="Typing animation" /></a>
 <br>
-
-<a href="https://abdulwahid.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/abduIwahid"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/abdu1wahid"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:abdulwahid.connects@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://abdul-wahid-portfolio.vercel.app/CV.pdf"><img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" /></a>
+<a href="https://abdul-wahid-portfolio.vercel.app/CV.pdf">
+  <img src="https://img.shields.io/badge/Download%20CV-000000?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/>
+</a>
 </div>
 
 ## `whoami`
