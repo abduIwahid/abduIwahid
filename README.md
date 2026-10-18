@@ -1,278 +1,293 @@
 <div align="center">
 
-# Abdul Wahid
+# ABDUL WAHID
 
-### Artificial Intelligence Student · Aspiring Machine Learning Engineer
+**Artificial Intelligence Student · Machine Learning Developer in Progress**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulwahid.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdu1wahid)
-[![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulwahid.connects@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abduIwahid)
+Building practical AI systems, useful web applications, and projects that solve real problems.
+
+<br>
+
+<a href="https://abdulwahid.me"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/abdu1wahid"><img src="https://img.shields.io/badge/LINKEDIN-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:abdulwahid.connects@gmail.com"><img src="https://img.shields.io/badge/EMAIL-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/abduIwahid"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 </div>
 
 ---
 
-## `whoami`
+## `01 / THE DEVELOPER`
 
 <div align="center">
+
 <pre>
-#-#%@@@@@@@%#@%%%%%####@%%%%@@@*-@%#%%%#@%%%%%%%%#%#%%%%%%####*###%#%#*%*#@%#*#%@%@@%%%%%%%%
-%%@@%###*%@%%%%%%%@%@@@%%*####%*+@@%%%%%#%%%%%%%###%%%%%%%%%%%###%%#%*%%%@@%*#@@%@%#@%#@%%@@
-@@@::--#**+@@%%%%@%%%%@@@%%%#*#%@%###%*##%*%#%%#%%%%%%##%#%*#%#%%@#%%#%%%%@%##%%%##*#%%%%%%@
-@+@@+%%**%%%#%%%%%%#######%#%%*+####%####**%%%#%%%%%%%%%%%%###%%%%#%%#%##%%%#+#%##%@@@@%%%*#
-#=+@@%@@@@#+=*%%%##%%%%%#%%###%%***#%%#%%@%@@%%@%%%%%%@@%%%@%%#%%%%###%##@%##%%#@@%*#%%%#%@@
-%@@@%#@@**%@@%#@@%%%%%%%%%%#**#%%%%@@@@@%%%%%%%%%###%%#%%%@@@@%%#%++%%%%%+*%#*#%##%###%%@%%%
-#@@%####*%@%#**#*##@@%%@%%%%*#%%@@@@@@%##%%@@@@@%%%#####%#%@%%@@@@%%%@#+#%%#*#*#%%%@@@@%@@%%
-%@%%%*%%%*+===+++++%%%%#%%#%@@@@@@@%#%@%%@@@@@@@@@@@@@@@@%%%@@%%@@@@@%*@@%%@@@@@@@%%%%%%%%%%
-#%%%#@#-=*######**+@%%%%%%%%@@@@@@@%##@@@@@@@@@@@@%@@@@%@@@##%#%%%%%@%@@@@@@@@@@@@@@%%%##%%%
-#%%%%@@#*+*******+*@%#%%@@%@@@@@@@@@@%%%%*+===---==+*#@@%@@@%%@%%%%##%%@@@@@@@@@@@@@@@@@@@@@
-%@@%%###+++==+++=+@%#%%%@@%%@@@@%%@%#*==------------=+**#%%@@@%@%%%%%@@@@@@@@@@@@@@@@@@@@@%#
-@@%%@%#*+--=====+#%##@@%@@#@@%##%@%*=--====-----::::::-=+#@@@@####@%@@@@@@@@@@@@@@@@@@@@%%@%
-@##@%%@@@#*+===+##*#%@@#*+=@@@%#%@*===+++==-----:::::...:*@@@@@%@@@@@@@@@@@@@@@@@@@@@@@%%@%%
-##%%#%%%@@@@%#**#**#*@@#=-=+@@@@@@+===------:::....::.:..:+@%#@@@@@@@%@@@@@@@@@@@@@@%%@%#%##
-%%%%%%@%%@@@@@#+*++++##+++==@@##@@+++**=-:..  :-*#%####*+=:=%@@@@@@@@@@@@@@@@@@@@@@@%%@@%%%%
-%%@@@%%%######*=+++++==+++++@@@%@%#%%%%%%*-:. -*#**+--=++*+-=%@@@@@@@@%@@@@@@@@@@@@@@@%%@@@@
-%%%%%%%%%%@%%#==++++++++++++=+@@@@*+====*#%%=:*+==:-%%+**+==+*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-%@%%%@@@@@@@@%==++++++++++++++@%%@+%*-@+ -#%- +*==--+=-= :=::-#@+=:..%@@@@@@@@@@@@@@@@@@@@@@
-@@%%@%@@@@@@@%*++++++++++++++++%@%=++--:. +#. .#+:--::..:-..::-@+  .  @@@@@@%##@@@@@@@@@@@@@
-@@@@@@@@@@###***++++++++++++++++#*=::-:-=#%=   :+: .::::.  .--+@:.. ..@%*#%@%%%@@@@@@@%%%%@@
-@@@@%@@#*+*@+-==+++++++++++++**+:*=------++. .-..=  .    ..:=+%% ....#@##%%@@@@@@@@@@@@@%%@%
-@@@%%#*+***+==+++++++++++++++++*-+*-:::::-=*--++--:.....::-+++#*..:.*@%%@@@@@@%@%%%%@%%@%%%#
-%%@@%%@@%#==+***#%*********######+%*=--===*#=-=+=----:::-==+++%+  :#@%##%%%%%%%%%%%%@%%@%@%%
-%@%%@@@@@%+*%#**+**+*#*+#*+******++#*++**#*+++==++**++=--===+*#%@@+==*#%%%@@@@%%@@@@@@@@@@@@
-%%%@%%@%***+***###%#*###%%%#%%###%%%#**+=*+====---=---=====+#@*#@@##*+=#@@@@%@#%@@@@@@@@@@@@
-@@@%%%@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@#*+=========----=-==+#%%+:+@@@@@@#%%%%%%%@@@@@@@@@@@@@@
-@%%%@@@@@%@@@@@%@@@@@@%%%%%%%%%%%%%%%@%#*+==----:::::::+#@%+:::*@@@@@@@@@@%%%@@@@@@@@@@@@@@@
-##%%####%%%%%%%%%%%%%%@@%%%%%@@%%%%%%%@@@%*-:: .   .:+@@%=...--+@@@@@@@@@@%%%%@@@@@@@@@@@@@@
-%@@%%%%%%@%@%%%%%%%%%%%@@@@@@@@@@%%%%%@@@*#%#%#%%@%@@@#-. .::--=@@%%@@@@@%%%%%%%%@@@@@@@@@@@
-%%%@@@@@@@@@@@@@@@@@@@%%%%%%%%%##%@@@@@@@*:*%*****+=-::...:::---+@@%%%%%%%%%%%%%%@@@@@@%%@@@
-%%@%###%%%%%%#############****+#@@@@@@@%@%-+#+-:....:::...::.. -+%%%%%%%%%%%%%%@@@@@@@@@@@@@
-@@#-+#%+======+++++==========-=@@@@@%%%%@@+-*+=-::.:::....  .+%@@%%%%%%%%%%%%%%%@@@@@@@@@@@@
-%*+#%%*=++=+=+===---===++++***%@@@%%%%%%@@#+=+=:......    -#@@@@%%%%%%%%%%%%%%%%%%@@@@@@@@@@
-#%@*+++*****+=+#%@@@@@@@@@@@@@@%%@@@%%@%%@@*=+=-:...   .+@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@
-@@*+******++*%@@@@@@@@@@@@@@@@@@%%%%%%%%%@@%=-=-:.  .+%@@@%%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%@@
-%+********+%@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%@@+  :..=%@@@@%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%%
-*%%####**#@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%@@*--=@@@@%%%%%%%%%%%%@@%%%%%%%%%%%%%%%%%%%%%%%%%
-@@*###**@@@@@@@@@@@@@%@@@@@@@@@%%%%%%%%%%%@@%@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@%%%%
-%**##*#@@@@@@@@@@@@@@%@@@@@%%@@@%%%@%%%%%%%%%@@%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@%%%%%
-%%%@%#@@@@@@@%@@@@@@@%@@@@%%%@@@%%%@@@%%%%%%%@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%%%%%%
-@@%**@@@%@@@@%%%@@@@%%@@%%%%%@@@%%%%%@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@%%%%%%%%%@@@%%%%%%%%%
-@#*%@%@@%%@@@@%%%@@@%%@@%%%%%@@@%%%%%%%@@@@@%%#@@%%%%%%%%%%%%%%%%%%%%@%%%%%%%%%@%%%%%%%%%%@@
-%%@@%%%@@%@@@@@%@@@@%@@@%%%%%%@@%%%@@@%@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@%%%@%%%%%%%%%%@@%%
-%@%%%%%@@@@%%%%%%@@%%@@%%%%%%%%%%%%@@@@@@@@@%%@@@@@%%%%%%%%%%%%%%%%%@%%%@%%@@%%%%%%%@@@@%%%%
-@%%%%%%%%@@@@@%%%%@%%@@%%%%%%%%%%%@@:  ::.-.%@*=#-%@%%%%%%%%%%%%%%%%%%%@%%@@%%%%%%@@%%%%%%%%
-@@%%%%%%%%@@@@@%%%%%%%@%%%@@@@@@@@@# -%% @. @@#.. @%%%%%%%%%%%%%%%%%%%@%%@%%%%%%@%%%%%%%%%%%
-@@%%%%@%%%%@@%@@%%%%%%%%%@@#@@@@@@#  @@* @ +@@+  @@@@%@%%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%%%%%%
-@@%%%%%%%%%%@@@%%%%%%%%%%@  % =@=%%.:*#. = -@*  #@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-@@%%%%%%%%%%%@%%%%%%%%%%@%-@:.@  *: %#*:@-.#@%+% =* * =@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%@%%%%%%%@%%%%%%%%%%%@@@@: %+%:@ #:-@ #@@#:= *- * +@%%%%%%%%%%%%%%@%%%%%%%%%%%%%%%%@@%%%
-@%%%%@@@%%%@@%@%%%%%%%%%%%@@- =@  @: @ *+.=@*%-#- @%@#%@%%%%%%%%%%%%%%%%@@@%%%%%%%%@@@@%%%%%
-%%%%%%@@@%%%%%%%%%%%%@%%%%@@=.+=+=+ #@:@ :#@-@.%: @@@@@%%%%%%%%%%%%%%%#%@%%%%%%%%%%%%%%%%@%@
+@@@@@@@%%#%%+@%@%%@# -@@@@@@@@@@@%@@##%%*@%*#*#@@%%@@@@%%@@@@#%#%%#@@#%@*+@@
+@@@@@@@@@@@+*%###*%@@%%%@@%#@+#*=@@#@@#@@%##@%%@%%@%%%@%%@#*#@%#%%@@%%%@##@@
+@@@@%%@%%@@@@@@%*%@@@@@%+**@%*#%#@#=%#*%%##%%@@@@@@%%%%%*%%=%@%%%@@@##@@#%%@
+@@##*#%###**@%@@%@=:+%@%@%%@#%%%@+=*%%@@%#@@@@@@@@@@@@@@#%%*#%%%%%@@##@@#%%@
+%%%%%@%%@%**@#=+#%%%+-:::@@%@#***@@#@@@@@@@@@@@@@@@@@@@@@@@@@#%@@@@%@@@*%@%*
+%%%@@@@%%%@@@@%%*#@@@%%@@#%@@@@@@@@@@@@@@@@@%%@@@@@@@@@@%@@@@@%##@@@%*=%%*@%
+%@@@@@@@@@@@@%**#*#@%@%%@@@@@@@@%#@%@@@@@@@@%###%@@*#%@@@@@@@@@@@#%@- +@@@@@
+@@@@@@@@@@@@@@%--*%%@@@@@@@@@@@%%%%@@@@@@@@@@@###*####%%@@@@@@@@@@@@*%%%@@%-
+. +@@@@%@@@@@%@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@%%@@@@@#%@@@@@@@@@@@@@@@#-#
++=#@@@@@=*@%%%@@@@@@@@@@@@#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@@@@@@@@#%@
++-#@@@@%#@@@@@@@@@@@@@@@@@#*%@@@@@@@@@@@@@@@@@@@@@@@@%@@@@##@%#*@@@@@@@@@@@@
++.#@@%%@@@@@@@@@@@@@@@@@@@@@%@@@@@@%#*+==-:-====*%@@@@%@@@@%@%@@@@@@@%#@@@@@
+-=@@@#%@@@@@@@@@@@@@@@@@@@@@@@#*-:..           -===#@@@@@@@@@@@@@@@@@@**@@@@
+:%@*#%@@%@@@@@@@@@@@@@@@@@%=-.  .  .            .-==+=#@@@@@@@@@@@@@%%@@@@@@
++@@+#%@@@@@@@%@@@@%@@@@@@+-......:..                :--*@@@@@@%%@@+%@%@@@@@@
+#%+%%@@@@#@@=*@@@@%#%@@@*--:...:::..                  .=@@@@@@%*+%@@@@@@@@@@
+%+=@%@@@@=*. +@@@@@%@@@@-::::-=--:.                     *@@@@@@@@@@@@@@@@@@@
+*=%@+@@@@+: :-=@@@@@@@@#:----: ..                        +@@%%@@@@@@@@@@@@@@
+==#-=#@@+-:::. @@@@@@@@*:::.                 .*+=+=-:.    =@@@@@@@@@@@@@@@@@
+------*------:-@@@%-@@@*=++%@@%+::        :%@@@#%#%%#%##+   %@@@@@@@@@@@@@@@
+---=--::-====-=@@@@%@@@@%@@@@@@@@%.      .*%+-::     .:--=.  #@@@@@@@@@@@@@@
+-=====--======-::*@@@@@@*+:    :*#%*=.. :+*-:++:*+*=-==-#=-%=#@@@@@@@@@@@@@@
+=======-=======-.+@@%@@%.-:-%*=+.-*@@=  =*  :.  *@@=+%=:    :-%@@@@@@%*@@@@@
+================:*@@+@@*=@@ :@@.  :#%    *+= .:-.   .          @@+      .@@@
+=================-=@#@@+:++-       +%    :@=            -      -@@       %@@
+==================:-@@+:          +@=      :          :-       -@+       +@@
+-====-============== **=.      .:*@*       ..  . .....       ..#@        @@@
+--=================+  #-:....:-: :-.        .               .-=@@       :@%#
+---====-=====--====== *+         : -=   :=: :              ---+@#       @@@@
+---------====-===-==+-.#*         .:*-   ::               --:-+@-      @@@@@
+@%**+++*#*+++%@%%%%%#@==@+-.... . :#@:  :--:.  .        ::--:=+@=    +@@@%##
+*+*+%@@+=##+=*#=****%*=-*@*=--=*#***-.:.  .--====-:.   .....=+#%%@@@+:=-%@@@
+-=+:-=+-=+#*==++*+-====+:%#+++*==##=-=++++=-::=*=.::. ....--=*@+#@@@-.   .=%
+@@@%%%%%@@@@@@@@@@@@@@@@@@@***=:.-=-.  ..           ..::.-=+%@%.*@@@%@@@%-.%
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@*+=-:.:-.::::...       ...:.:+#@@*  -@@@@@@@@@%@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%++=::::...==-.   ..    .:+@@@+    =@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#+...               .*@@%-      =@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-              .@@@%.        :@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+#@@++#==+=+*=*%@@@+            @@@@@@@@@@@
 </pre>
+
 </div>
 
-## About Me
+## `02 / ABOUT ME`
 
 ```python
 class AbdulWahid:
     name = "Abdul Wahid"
-    role = "BS Artificial Intelligence Student"
+    education = "BS Artificial Intelligence"
     university = "COMSATS University Islamabad, Attock Campus"
-    interests = [
+
+    interests = (
         "Machine Learning",
         "Data Science",
-        "Artificial Intelligence",
-        "Software Engineering",
-    ]
-    currently_learning = [
-        "Building practical AI/ML applications",
-        "Model evaluation and explainability",
-        "Full-stack development for ML products",
-    ]
+        "AI Engineering",
+        "Software Development",
+    )
 
-    goal = "Turn data and ideas into useful, reliable software"
+    approach = "Learn by building, testing, and improving"
+    current_focus = "Practical AI/ML applications"
 
-    def say_hello(self):
-        return "Always learning, building, and improving."
+    def objective(self):
+        return "Turn ideas and data into useful software"
 
 
-me = AbdulWahid()
-print(me.say_hello())
+developer = AbdulWahid()
 ```
 
-## Featured Projects
+I enjoy problem-solving and building things hands-on. My focus is on strengthening my AI/ML foundations while learning how to turn models into usable applications.
+
+---
+
+## `03 / SELECTED WORK`
+
+<div align="center">
+
+*Five projects. Different problems. One goal: build things that are useful.*
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [MediSight](https://github.com/abduIwahid/MediSight-Healthcare-Platform)
+### 01. MediSight
 
-Healthcare-focused ML platform exploring risk prediction and model explainability.
+**Healthcare · Machine Learning**
 
-- LightGBM model with **0.8307 ROC-AUC**
-- SHAP-based explainability and MLflow tracking
-- FastAPI, Next.js, TypeScript, and Supabase
+A healthcare-focused platform exploring risk prediction, model evaluation, and explainability.
 
-[Live Demo](https://medisight-healthcare.vercel.app/welcome)
+- LightGBM model — **0.8307 ROC-AUC**
+- SHAP explanations and MLflow tracking
+- FastAPI · Next.js · TypeScript · Supabase
+
+[Repository ↗](https://github.com/abduIwahid/MediSight-Healthcare-Platform) · [Live demo ↗](https://medisight-healthcare.vercel.app/welcome)
 
 </td>
 <td width="50%" valign="top">
 
-### [Customer Churn · Churnex](https://github.com/abduIwahid/Customer-Churn-Prediction)
+### 02. Churnex
 
-A machine-learning project for predicting customer churn and explaining model outputs.
+**Customer Analytics · Predictive ML**
 
-- Python and scikit-learn workflows
-- Model comparison and SHAP-style explainability
-- FastAPI-backed application
+A customer churn prediction project with model comparison and interpretable outputs.
 
-[Live Demo](https://churnex.vercel.app/)
+- Python-based ML workflow
+- Model evaluation and explainability
+- FastAPI application
+
+[Repository ↗](https://github.com/abduIwahid/Customer-Churn-Prediction) · [Live demo ↗](https://churnex.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Study Hubb](https://github.com/abduIwahid/fa24-bai)
+### 03. Study Hubb
 
-A study hub designed to make cohort resources and learning materials easier to access.
+**Education · Web Application**
 
-- Student-focused resource hub
+A student-focused hub for organizing and accessing cohort learning resources.
+
+- Built around student resource discovery
 - Gemini API integration
 
-[Live Demo](https://fa24-bai.vercel.app/)
+[Repository ↗](https://github.com/abduIwahid/fa24-bai) · [Live demo ↗](https://fa24-bai.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### [NearSend](https://github.com/abduIwahid/NearSend)
+### 04. NearSend
 
-Private, browser-based file sharing between nearby devices.
+**WebRTC · Peer-to-Peer Sharing**
+
+A browser-based way to transfer files between nearby devices without cloud uploads.
 
 - WebRTC peer-to-peer transfers
 - QR pairing and transfer progress
-- No account or cloud file uploads required
+- No account required
+
+[Explore repository ↗](https://github.com/abduIwahid/NearSend)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [Predictly](https://github.com/abduIwahid/Predictly)
+### 05. Predictly
 
-A real-estate valuation project focused on the Pakistan property market.
+**Real Estate · Predictive Application**
 
-- Property price prediction
-- ML-powered estimates through a web interface
+A property valuation project focused on the Pakistan real-estate market.
 
-[Live Demo](https://predict-home.vercel.app/)
+- Property price estimation
+- ML-backed web experience
+
+[Repository ↗](https://github.com/abduIwahid/Predictly) · [Live demo ↗](https://predict-home.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### More Projects
+### Want to see more?
 
-Explore additional experiments and university projects in the expandable section below.
+University assignments, experiments, and other builds are collected below.
+
+<details>
+<summary><strong>Explore more projects</strong></summary>
+
+- [Smart Doctor Connect](https://github.com/abduIwahid/Smart-Doctor-Connect) — AI-enabled healthcare hackathon project
+- [EPMS](https://github.com/abduIwahid/epms) — Management system project
+- [Freelance Marketplace Management System](https://github.com/abduIwahid/Freelance-MarketPlace-Management-System) — Database design and implementation
+- [Inventory Management System](https://github.com/abduIwahid/Inventory-Management-System) — Inventory application
+- [Pac-Man](https://github.com/abduIwahid/Pac-Man) — Game project
+
+</details>
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><strong>View More Projects</strong></summary>
+---
 
-| Project | Description | Repository |
-|---|---|---|
-| Smart Doctor Connect | AI-enabled healthcare project built for a hackathon | [Open repository](https://github.com/abduIwahid/Smart-Doctor-Connect) |
-| EPMS | Employee/enterprise project management system | [Open repository](https://github.com/abduIwahid/epms) |
-| Freelance Marketplace Management System | Database design and management for a freelance marketplace | [Open repository](https://github.com/abduIwahid/Freelance-MarketPlace-Management-System) |
-| Inventory Management System | Inventory management application | [Open repository](https://github.com/abduIwahid/Inventory-Management-System) |
-| Pac-Man | Game project | [Open repository](https://github.com/abduIwahid/Pac-Man) |
-
-</details>
-
-## Tech Stack
+## `04 / TOOLKIT`
 
 <div align="center">
 
-**Languages**
+**LANGUAGES**
 
-![Python](https://img.shields.io/badge/Python-222222?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-333333?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-444444?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-555555?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-222222?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,sql&theme=light" alt="Python, Java, JavaScript, TypeScript, SQL">
 
-**AI / Data**
+**AI · DATA**
 
-![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-444444?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-555555?style=flat-square&logo=scikitlearn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-333333?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-444444?style=flat-square)
+<img src="https://skillicons.dev/icons?i=numpy,pytorch,sklearn&theme=light" alt="AI and data tools">
 
-**Development & Tools**
+`NumPy` · `pandas` · `scikit-learn` · `LightGBM` · `SHAP` · `MLflow`
 
-![FastAPI](https://img.shields.io/badge/FastAPI-222222?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-444444?style=flat-square&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-555555?style=flat-square&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-222222?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-444444?style=flat-square&logo=jupyter&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white)
+**WEB · BACKEND · DATABASES**
 
-</div>
+<img src="https://skillicons.dev/icons?i=fastapi,nextjs,nodejs,supabase,mysql,git,github,vercel&theme=light" alt="Development tools">
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abduIwahid&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=graywhite&title_color=111111&text_color=333333&icon_color=555555" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduIwahid&layout=compact&hide_border=true&theme=graywhite&title_color=111111&text_color=333333" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=abduIwahid&hide_border=true&background=FFFFFF&ring=333333&fire=555555&currStreakLabel=111111&sideLabels=333333&currStreakNum=111111&sideNums=111111&dates=666666" alt="GitHub contribution streak" />
-
-[![Contribution Snake](https://raw.githubusercontent.com/abduIwahid/abduIwahid/output/github-contribution-grid-snake-dark.svg)](https://github.com/abduIwahid)
-
-</div>
-
-> GitHub stats and contribution animations are generated by external services/workflows. They may take time to load or may be unavailable temporarily.
-
-## Experience & Community
-
-- **Machine Learning Intern** — Ezitech Institute (Eziline Software House), Islamabad · Jul–Sep 2026
-- **GDGoC COMSATS Attock** — Member, AI/ML Team · 2026–2027
-- **MTM 2026 AI Hackathon** — GDGoC COMSATS Wah · May 2026
-- **DeepBuild Hackathon** — SoftTech, COMSATS University Islamabad, Attock Campus · Oct 2026
-
-## Certificates
-
-- [Google AI Essentials — Google / Coursera](https://coursera.org/verify/specialization/ET3L35MRSLBI)
-- [Machine Learning with NumPy & pandas — Educative.io](https://drive.google.com/file/d/1iCF1dC5lXYNjqLK-9EoYhNlrG8B_9QV0/view)
-- [MTM AI Hackathon Participation Certificate](https://drive.google.com/file/d/1UGs2P9JgDlXth--FgMtQXr_n10pAjnsu/view)
-- [More certificates](https://github.com/abduIwahid/certificates)
-
-## GitHub Badges
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=abduIwahid&style=flat-square&color=555555&label=PROFILE+VIEWS)](https://github.com/abduIwahid)
-[![Followers](https://img.shields.io/github/followers/abduIwahid?style=flat-square&color=333333&label=FOLLOWERS)](https://github.com/abduIwahid?tab=followers)
-[![Stars](https://img.shields.io/github/stars/abduIwahid?style=flat-square&color=555555&label=TOTAL+STARS)](https://github.com/abduIwahid?tab=repositories)
-[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FabduIwahid&query=%24.public_repos&label=PUBLIC%20REPOS&style=flat-square&color=222222)](https://github.com/abduIwahid?tab=repositories)
+`FastAPI` · `Next.js` · `Node.js` · `Supabase` · `MySQL` · `Git` · `Jupyter`
 
 </div>
 
 ---
 
+## `05 / GITHUB, IN MOTION`
+
 <div align="center">
 
-**Build. Learn. Iterate.**
+<a href="https://github.com/abduIwahid">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abduIwahid&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=111111&text_color=444444&icon_color=333333" alt="GitHub stats">
+</a>
+<a href="https://github.com/abduIwahid">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduIwahid&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=444444" alt="Most used languages">
+</a>
 
-<sub>Designed with a minimal monochrome aesthetic.</sub>
+<br>
+
+<img src="https://streak-stats.demolab.com?user=abduIwahid&hide_border=true&background=ffffff&ring=222222&fire=555555&currStreakLabel=222222&sideLabels=444444&currStreakNum=111111&sideNums=111111&dates=777777" alt="GitHub streak statistics">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/abduIwahid/abduIwahid/output/github-contribution-grid-snake.svg" alt="GitHub contribution animation">
+
+</div>
+
+<details>
+<summary><strong>GitHub profile badges</strong></summary>
+<br>
+
+<div align="center">
+
+[![Profile views](https://komarev.com/ghpvc/?username=abduIwahid&style=flat-square&color=333333&label=PROFILE+VIEWS)](https://github.com/abduIwahid)
+[![Followers](https://img.shields.io/github/followers/abduIwahid?style=flat-square&color=333333&label=FOLLOWERS)](https://github.com/abduIwahid?tab=followers)
+[![Stars](https://img.shields.io/github/stars/abduIwahid?style=flat-square&color=555555&label=STARS)](https://github.com/abduIwahid?tab=repositories)
+
+</div>
+</details>
+
+*Stats and animated contribution art are provided by external services. If a card does not load, the service or its workflow may need attention.*
+
+---
+
+## `06 / EXPERIENCE & COMMUNITY`
+
+| Role / Activity | Details |
+|---|---|
+| **Machine Learning Intern** | Ezitech Institute (Eziline Software House), Islamabad · Jul–Sep 2026 |
+| **GDGoC COMSATS Attock** | Member, AI/ML Team · 2026–2027 |
+| **MTM 2026 AI Hackathon** | GDGoC COMSATS Wah · May 2026 |
+| **DeepBuild Hackathon** | SoftTech, COMSATS University Islamabad, Attock Campus · Oct 2026 |
+
+## `07 / CERTIFICATES`
+
+- [Google AI Essentials — Google / Coursera](https://coursera.org/verify/specialization/ET3L35MRSLBI)
+- [Machine Learning with NumPy & pandas — Educative.io](https://drive.google.com/file/d/1iCF1dC5lXYNjqLK-9EoYhNlrG8B_9QV0/view)
+- [MTM AI Hackathon Participation Certificate](https://drive.google.com/file/d/1UGs2P9JgDlXth--FgMtQXr_n10pAjnsu/view)
+- [All certificates](https://github.com/abduIwahid/certificates)
+
+---
+
+<div align="center">
+
+### `BUILD → LEARN → IMPROVE`
+
+<sub>Thanks for visiting. Feel free to explore the repositories or connect.</sub>
 
 </div>
