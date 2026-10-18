@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:111111,100:2b2b2b&height=180&section=header&text=Abdul%20Wahid&fontSize=56&fontColor=ffffff&fontAlignY=42&stroke=ffffff&strokeWidth=1&desc=AI%20%2F%20ML%20Developer&descAlignY=66&descSize=18&animation=fadeIn" width="100%" alt="Abdul Wahid" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:262626&height=210&section=header&text=Abdul%20Wahid&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning&descAlignY=60&descSize=17&animation=fadeIn" alt="Abdul Wahid — Artificial Intelligence and Machine Learning" width="100%"/>
+</a>
 <a href="https://github.com/abduIwahid"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&width=620&height=36&lines=BS+Artificial+Intelligence+Student;Machine+Learning+%7C+Data+Science;Full-Stack+%26+Software+Engineering;Learn+by+building." alt="Typing animation" /></a>
 <br>
 
@@ -9,17 +10,6 @@
 <a href="mailto:abdulwahid.connects@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://abdul-wahid-portfolio.vercel.app/CV.pdf"><img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" /></a>
 </div>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:262626&height=210&section=header&text=Abdul%20Wahid&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning&descAlignY=60&descSize=17&animation=fadeIn" alt="Abdul Wahid — Artificial Intelligence and Machine Learning" width="100%"/>
-</a>
-
-<p>
-  <a href="https://abdulwahid.me"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/abdu1wahid"><img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/abduIwahid"><img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:contact@abdulwahid.me"><img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://abdul-wahid-portfolio.vercel.app/CV.pdf"><img src="https://img.shields.io/badge/CV-View%20PDF-111111?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV"/></a>
-</p>
 
 ## `whoami`
 
