@@ -7,9 +7,14 @@ import sys
 import urllib.request
 
 USER = "abduIwahid"
-LIMIT = 6                       # how many projects to show
+LIMIT = 8                       # how many projects to show
 PIN_TOPIC = "pin"               # optional: repos with this topic always show first
-EXCLUDE = {USER, "certificates"}  # repo names to never show (add more here)
+EXCLUDE = {
+    USER, "certificates",
+    # already shown in Featured Projects
+    "MediSight-Healthcare-Platform", "Customer-Churn-Prediction",
+    "fa24-bai", "NearSend", "Predictly",
+}  # repo names to never show (add more here)
 README = "README.md"
 START, END = "<!-- PROJECTS:START -->", "<!-- PROJECTS:END -->"
 
