@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:111111,100:2b2b2b&height=180&section=header&text=Abdul%20Wahid&fontSize=56&fontColor=ffffff&fontAlignY=42&stroke=ffffff&strokeWidth=1&desc=AI%20%2F%20ML%20Developer&descAlignY=66&descSize=18&animation=fadeIn" width="100%" alt="Abdul Wahid" />
 <a href="https://github.com/abduIwahid"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&width=620&height=36&lines=BS+Artificial+Intelligence+Student;Machine+Learning+%7C+Data+Science;Full-Stack+%26+Software+Engineering;Learn+by+building." alt="Typing animation" /></a>
-<img src="https://raw.githubusercontent.com/abduIwahid/abduIwahid/main/assets/ascii-pfp.svg" width="560" alt="ASCII portrait of Abdul Wahid" />
+<img src="https://raw.githubusercontent.com/abduIwahid/abduIwahid/main/assets/ascii-pfp.svg" width="240" alt="ASCII portrait of Abdul Wahid" />
 <br/>
 <a href="https://abdulwahid.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/abduIwahid"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
