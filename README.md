@@ -17,11 +17,11 @@ class AbdulWahid:
     degree      = "BS Artificial Intelligence"
     university  = "COMSATS University Islamabad, Attock Campus"
     semester    = 5
-    cgpa        = 3.46            # out of 4.00
+    cgpa        = 3.46
     location    = "Attock, Pakistan"
 
     interests   = ["Machine Learning", "Data Science", "Software Engineering"]
-    currently   = ["ML projects", "Full-stack development", "Internship search"]
+    currently   = ["ML projects", "Full-stack development"]
     communities = ["GDGoC COMSATS Attock — AI/ML Team"]
     approach    = "Learn by building"
 
@@ -34,7 +34,7 @@ class AbdulWahid:
 <div align="center">
 
 **Languages**<br/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt=“Python”/>
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
