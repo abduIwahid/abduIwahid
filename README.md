@@ -1,202 +1,168 @@
 <div align="center">
 
-<a href="https://abdulwahid.me">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:262626&height=210&section=header&text=Abdul%20Wahid&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning&descAlignY=60&descSize=17&animation=fadeIn" alt="Abdul Wahid — Artificial Intelligence and Machine Learning" width="100%"/>
+<pre>
+╔══════════════════════════════════════════════════════════════╗
+║  ABDUL WAHID                                      ONLINE     ║
+║  AI / ML DEVELOPER · BS ARTIFICIAL INTELLIGENCE              ║
+╚══════════════════════════════════════════════════════════════╝
+</pre>
+
+<a href="https://github.com/abduIwahid">
+  <img src="https://github.com/abduIwahid.png" width="112" alt="Abdul Wahid's GitHub profile picture" />
 </a>
 
 <pre>
-┌──────────────────────────────────────────────────────────────────────┐
-│  CONNECT                                                             │
-├──────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  ◈  WEBSITE   <a href="https://abdulwahid.me">abdulwahid.me</a>                                     │
-│  ◉  GITHUB    <a href="https://github.com/abduIwahid">github.com/abduIwahid</a>                          │
-│  in LINKEDIN  <a href="https://www.linkedin.com/in/abdu1wahid">linkedin.com/in/abdu1wahid</a>                │
-│  @  EMAIL     <a href="mailto:contact@abdulwahid.me">contact@abdulwahid.me</a>                          │
-│  ▣  CV        <a href="https://abdul-wahid-portfolio.vercel.app/CV.pdf">View / Download CV (PDF)</a>                         │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+       .----------------.
+      /   .----------.   \
+     |   /  ________  \   |
+     |  |  /        \  |  |
+     |  | |  .----.  | |  |
+     |  | |  |    |  | |  |
+     |  | |  '----'  | |  |
+     |  |  \________/  |  |
+     |   \            /   |
+      \   '----------'   /
+       '----------------'
 </pre>
 
-<pre>
-┌──(abdul@github)-[~]
-└─$ whoami
-   AI/ML student | Python developer | builder
-</pre>
+**Building practical software and machine-learning projects.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=BS+Artificial+Intelligence+Student;Building+Practical+AI%2FML+Projects;Python+%7C+scikit-learn+%7C+FastAPI;Learning%2C+Building%2C+Improving" alt="Typing introduction"/>
+[Website](https://abdulwahid.me) ·
+[LinkedIn](https://www.linkedin.com/in/abdu1wahid) ·
+[Email](mailto:abdulwahid.connects@gmail.com) ·
+[CV](https://abdul-wahid-portfolio.vercel.app/CV.pdf)
+
+![Profile Views](https://komarev.com/ghpvc/?username=abduIwahid&style=flat-square&color=555555&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## About Me
+## `whoami`
 
-I'm a **BS Artificial Intelligence student at COMSATS University Islamabad, Attock Campus**, interested in building practical software and machine-learning systems. I enjoy problem-solving, experimenting with data, and turning ideas into working projects.
+I'm Abdul Wahid, a **BS Artificial Intelligence student** at **COMSATS University Islamabad, Attock Campus**. I enjoy solving practical problems, strengthening my programming fundamentals, and building projects that connect software development with machine learning.
 
-- Studying **Artificial Intelligence** at COMSATS University Islamabad, Attock Campus.
-- Interested in **machine learning, data science, and software engineering**.
-- Working with **Python, scikit-learn, data tools, and API-based applications**.
-- Learning by building projects, testing ideas, and documenting what I discover.
-- Open to relevant **internships, collaborations, and learning opportunities**.
+- **Current focus:** Machine learning, data science, and software engineering
+- **Education:** BS Artificial Intelligence — 5th semester
+- **CGPA:** 3.46 / 4.00
+- **Location:** Attock, Pakistan
+- **Currently learning:** Better ML workflows, model evaluation, and reliable full-stack development
 
 ```python
 class AbdulWahid:
-    name = "Abdul Wahid"
-    degree = "BS Artificial Intelligence"
-    university = "COMSATS University Islamabad, Attock Campus"
-    location = "Pakistan"
-    interests = [
-        "Machine Learning",
-        "Data Science",
-        "Artificial Intelligence",
-        "Software Engineering",
-    ]
-    languages = ["Python", "Java"]
+    role = "AI / ML Developer"
+    education = "BS Artificial Intelligence"
+    interests = ["Machine Learning", "Data Science", "Software Engineering"]
+    approach = "Learn by building"
 ```
 
----
-
-## Technical Skills
-
-<p align="center">
-  <strong>Languages</strong><br/>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <br/><br/>
-  <strong>Data & Machine Learning</strong><br/>
-  <img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/pandas-111111?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
-  <img src="https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/LightGBM-111111?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM"/>
-  <br/><br/>
-  <strong>Web & Backend</strong><br/>
-  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <br/><br/>
-  <strong>Tools & Platforms</strong><br/>
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-</p>
-
----
-
-## Featured Projects
-
-> Project descriptions below are based on the information currently provided. Keep the metrics and claims only if they match the actual repository and evaluation results.
-
-### [MediSight — Healthcare AI Platform](https://github.com/abduIwahid/MediSight-Healthcare-Platform)
-An AI-enabled healthcare project combining a machine-learning service with a web application.
-
-- **Stack:** FastAPI, LightGBM, Next.js, Supabase
-- **Reported model metric:** ROC-AUC 0.8307
-- **Links:** [Repository](https://github.com/abduIwahid/MediSight-Healthcare-Platform) · [Demo](https://medisight-healthcare.vercel.app/welcome)
-
-### [Predictly — Predictive Analytics](https://github.com/abduIwahid/Predictly)
-A machine-learning project focused on predictive analytics and presenting data-driven insights.
-
-- **Links:** [Repository](https://github.com/abduIwahid/Predictly) · [Demo](https://predict-home.vercel.app/)
-
-### [Churnex — Customer Churn Prediction](https://github.com/abduIwahid/Customer-Churn-Prediction)
-A customer-churn prediction application using a neural-network model, model explanations, and an API backend.
-
-- **Stack:** Python, MLP, SHAP, FastAPI
-- **Links:** [Repository](https://github.com/abduIwahid/Customer-Churn-Prediction) · [Demo](https://churnex.vercel.app/)
-
-### [Study Hubb](https://github.com/abduIwahid/fa24-bai)
-A study hub for the FA24-BAI fifth-semester cohort, including an AI assistant powered by the Gemini API.
-
-- **Links:** [Repository](https://github.com/abduIwahid/fa24-bai) · [Demo](https://fa24-bai.vercel.app/)
-
-### [EPMS — Enterprise Project Management System](https://github.com/abduIwahid/epms)
-A project-management platform designed around team collaboration, sprint and task tracking, a Kanban board, comments, and role-based access.
-
-- **Repository:** [GitHub](https://github.com/abduIwahid/epms)
-
-### [Smart Doctor Connect](https://github.com/abduIwahid/Smart-Doctor-Connect)
-A healthcare-assistant concept developed during the MTM AI Hackathon.
-
-- **Links:** [Repository](https://github.com/abduIwahid/Smart-Doctor-Connect) · [Demo](https://smartdoctor-ai.vercel.app/)
-
-<details>
-<summary><strong>More projects</strong></summary>
-
-<br/>
-
-| Project | Summary | Repository |
-|---|---|---|
-| Freelance Marketplace Management System | SQL database project for marketplace entities and workflows. | [View repository](https://github.com/abduIwahid/Freelance-MarketPlace-Management-System) |
-| Inventory Management System | Java desktop application for inventory operations. | [View repository](https://github.com/abduIwahid/Inventory-Management-System) |
-| Pac-Man | Maze game implemented in a Jupyter Notebook. | [View repository](https://github.com/abduIwahid/Pac-Man) |
-| NearSend | Browser-based local file-sharing project. | [View repository](https://github.com/abduIwahid/NearSend) |
-
-</details>
-
----
-
-## GitHub Activity
+## `tech --stack`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=abduIwahid&theme=transparent&hide_border=true&ring=888888&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" width="100%"/>
+### Languages
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=abduIwahid&show_icons=true&hide_border=true&theme=transparent&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&rank_icon=github" alt="GitHub statistics" width="100%"/>
+### AI, Machine Learning & Data
+<img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/pandas-111111?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/LightGBM-111111?style=flat-square&logo=lightgbm&logoColor=white" alt="LightGBM" />
+<img src="https://img.shields.io/badge/SHAP-111111?style=flat-square&logoColor=white" alt="SHAP" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduIwahid&layout=compact&hide_border=true&theme=transparent&title_color=FFFFFF&text_color=AAAAAA" alt="Most-used languages on GitHub" width="100%"/>
+### Web, Backend & Databases
+<img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+
+### Tools
+<img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Jupyter-111111?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+<img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 
 </div>
 
----
+> These are tools and technologies I've used while learning and building projects; this list isn't intended as a claim of expert-level proficiency in every item.
 
-## Education
+## `git --featured-projects`
 
-| Degree | Institution | Current semester | CGPA |
-|---|---|---:|---:|
-| BS Artificial Intelligence | COMSATS University Islamabad, Attock Campus | 5th | 3.46/4.00 |
+| Project | What it does | Stack / focus |
+|---|---|---|
+| [MediSight](https://github.com/abduIwahid/MediSight-Healthcare-Platform) · [Live demo](https://medisight-healthcare.vercel.app/welcome) | Healthcare-focused ML project with an API-backed model workflow and an application interface. | Python, FastAPI, LightGBM, SHAP, MLflow, Next.js, Supabase |
+| [Predictly](https://github.com/abduIwahid/Predictly) · [Live demo](https://predict-home.vercel.app/) | Real-estate valuation and predictive analytics project focused on the Pakistan market. | Machine learning, data analysis, web app |
+| [Churnex](https://github.com/abduIwahid/Customer-Churn-Prediction) · [Live demo](https://churnex.vercel.app/) | Customer churn prediction with model explainability and a web interface. | Python, MLP, SHAP, FastAPI |
+| [Study Hubb](https://github.com/abduIwahid/fa24-bai) · [Live demo](https://fa24-bai.vercel.app/) | A cohort study-resource hub for finding and organizing learning materials, with AI-assisted study features. | JavaScript, Vercel, GitHub API, Gemini API |
 
----
+### More projects
 
-## Certificates & Achievements
+- [NearSend](https://github.com/abduIwahid/NearSend) — browser-based nearby file sharing designed around direct device-to-device transfers.
+- [Smart Doctor Connect](https://github.com/abduIwahid/Smart-Doctor-Connect) · [Live demo](https://smartdoctor-ai.vercel.app/) — healthcare-oriented hackathon project.
+- [EPMS](https://github.com/abduIwahid/epms) — enterprise project management system.
+- [Freelance Marketplace Management System](https://github.com/abduIwahid/Freelance-MarketPlace-Management-System) — database-focused marketplace project.
+- [Inventory Management System](https://github.com/abduIwahid/Inventory-Management-System) — inventory management application.
 
-**[Browse certificates repository](https://github.com/abduIwahid/certificates)**
+## `hackathons --list`
 
-| Credential | Issuer | Date | Verification |
-|---|---|---|---|
-| Google AI Essentials — 5-course specialization | Google via Coursera | May 2026 | [Verify](https://coursera.org/verify/specialization/ET3L35MRSLBI) |
-| Machine Learning with NumPy and pandas — completion certificate | Educative | May 2026 | [View certificate](https://drive.google.com/file/d/1iCF1dC5lXYNjqLK-9EoYhNlrG8B_9QV0/view) |
-| MTM AI Hackathon — participation | GDGoC, COMSATS Wah | May 12, 2026 | [View certificate](https://drive.google.com/file/d/1UGs2P9JgDlXth--FgMtQXr_n10pAjnsu/view) |
+### DeepBuild Hackathon
+- **Organizer / community:** SoftTech
+- **Venue:** COMSATS University Islamabad, Attock Campus
+- **Date:** October 2026
 
----
+### MTM 2026 — AI Hackathon
+- **Organizer:** Google Developer Groups on Campus (GDGoC), COMSATS Wah
+- **Date:** May 2026
+- **Project:** [Smart Doctor Connect](https://github.com/abduIwahid/Smart-Doctor-Connect)
+- **Demo:** [smartdoctor-ai.vercel.app](https://smartdoctor-ai.vercel.app/)
 
-## Current Focus
+## `experience --list`
 
-- Improving practical machine-learning and data-science skills.
-- Building and documenting end-to-end AI applications.
-- Learning more about model evaluation, explainability, and deployment.
-- Developing student-focused tools and collaborative software projects.
+**Machine Learning Intern** · Ezitech Institute (Eziline Software House)  
+`July–September 2026`
 
----
+Worked on MediSight, a healthcare-focused ML project, using model development and evaluation, explainability, API integration, and application tooling.
 
-## Contact
+**Member, AI/ML Team** · GDGoC COMSATS Attock  
+`2026–2027`
 
-<pre>
-┌──(abdul@github)-[~/contact]
-└─$ open --profiles
+Participating in technical learning and AI/ML community activities.
 
-  ◈  WEBSITE   <a href="https://abdulwahid.me">abdulwahid.me</a>
-  ◉  GITHUB    <a href="https://github.com/abduIwahid">github.com/abduIwahid</a>
-  in LINKEDIN  <a href="https://www.linkedin.com/in/abdu1wahid">linkedin.com/in/abdu1wahid</a>
-  @  EMAIL     <a href="mailto:contact@abdulwahid.me">contact@abdulwahid.me</a>
-</pre>
+## `certificates --list`
+
+- [Google AI Essentials — Google / Coursera](https://coursera.org/verify/specialization/ET3L35MRSLBI)
+- [Machine Learning with NumPy, pandas, scikit-learn, and More — Educative](https://drive.google.com/file/d/1iCF1dC5lXYNjqLK-9EoYhNlrG8B_9QV0/view)
+- [MTM 2026 AI Hackathon participation certificate](https://drive.google.com/file/d/1UGs2P9JgDlXth--FgMtQXr_n10pAjnsu/view)
+- [All certificates and supporting files](https://github.com/abduIwahid/certificates)
+
+## `github --stats`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=70&section=footer" alt="" width="100%"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=abduIwahid&show_icons=true&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888&icon_color=888888&rank_icon=github" alt="GitHub statistics" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduIwahid&layout=compact&hide_border=true&bg_color=00000000&title_color=888888&text_color=888888" alt="Most used languages" />
 
-<sub>Learning through building. Improving through iteration.</sub>
+<img src="https://streak-stats.demolab.com?user=abduIwahid&hide_border=true&background=00000000&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=777777" alt="GitHub contribution streak" />
 
+</div>
+
+## `connect --open`
+
+If you're working on a practical software or ML project, looking for a collaborative teammate, or have an internship opportunity, feel free to reach out.
+
+- **Website:** [abdulwahid.me](https://abdulwahid.me)
+- **LinkedIn:** [linkedin.com/in/abdu1wahid](https://www.linkedin.com/in/abdu1wahid)
+- **Email:** [abdulwahid.connects@gmail.com](mailto:abdulwahid.connects@gmail.com)
+- **CV:** [View résumé](https://abdul-wahid-portfolio.vercel.app/CV.pdf)
+
+---
+
+<div align="center">
+<sub>Build, test, learn, repeat.</sub>
 </div>
