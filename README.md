@@ -139,12 +139,7 @@ class AbdulWahid:
 </details>
 
 ## `github --activity`
-
-<div align="center">
-<img src="https://img.shields.io/github/followers/abduIwahid?style=for-the-badge&logo=github&logoColor=white&color=111111&labelColor=000000" alt="Followers" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FabduIwahid&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&logoColor=white&color=111111&labelColor=000000" alt="Public repositories" />
-<img src="https://komarev.com/ghpvc/?username=abduIwahid&style=for-the-badge&color=111111&labelColor=000000&label=PROFILE+VIEWS" alt="Profile views" />
-<br/>
+<div>
 <img src="https://streak-stats.demolab.com?user=abduIwahid&theme=dark&hide_border=true&background=00000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" width="480" alt="Contribution streak" />
 <br/>
 <img src="https://raw.githubusercontent.com/abduIwahid/abduIwahid/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
