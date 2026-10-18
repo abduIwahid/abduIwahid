@@ -9,13 +9,7 @@
 <br/>
 
 <!-- ASCII PROFILE PICTURE: replace the block below once the image is converted -->
-<pre>
- ┌──────────────────────────────┐
- │                              │
- │     [ ASCII PFP GOES HERE ]  │
- │                              │
- └──────────────────────────────┘
-</pre>
+<img src="https://raw.githubusercontent.com/abduIwahid/abduIwahid/main/assets/ascii-pfp.svg" width="420" alt="ASCII portrait of Abdul Wahid" />
 
 <a href="https://abdulwahid.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/abduIwahid"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
