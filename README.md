@@ -19,11 +19,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/abduIwahid?style=flat-square&color=111111&labelColor=000000&logo=github" alt="Followers" />
-<img src="https://img.shields.io/github/stars/abduIwahid?style=flat-square&color=111111&labelColor=000000" alt="Stars" />
-<img src="https://img.shields.io/github/created-at/abduIwahid?style=flat-square&color=111111&labelColor=000000" alt="Joined" />
-<img src="https://komarev.com/ghpvc/?username=abduIwahid&style=flat-square&color=555555&label=PROFILE+VIEWS" alt="Profile views" />
-
 </div>
 
 ---
