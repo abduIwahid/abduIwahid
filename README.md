@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:111111,100:2b2b2b&height=180&section=header&text=Abdul%20Wahid&fontSize=56&fontColor=ffffff&fontAlignY=42&stroke=ffffff&strokeWidth=1&desc=AI%20%2F%20ML%20Developer&descAlignY=66&descSize=18&animation=fadeIn" width="100%" alt="Abdul Wahid" />
 <a href="https://github.com/abduIwahid"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=FFFFFF&background=00000000&center=true&vCenter=true&width=620&height=36&lines=BS+Artificial+Intelligence+Student;Machine+Learning+%7C+Data+Science;Full-Stack+%26+Software+Engineering;Learn+by+building." alt="Typing animation" /></a>
-<img src="https://raw.githubusercontent.com/abduIwahid/abduIwahid/main/assets/ascii-pfp.svg" width="300" alt="ASCII portrait of Abdul Wahid" />
+<img src="https://raw.githubusercontent.com/abduIwahid/abduIwahid/main/assets/ascii-pfp.svg" width="560" alt="ASCII portrait of Abdul Wahid" />
 <br/>
 <a href="https://abdulwahid.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/abduIwahid"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -114,36 +114,24 @@ class AbdulWahid:
 <!-- PROJECTS:START -->
 <table>
   <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Portfolio"><b>Portfolio</b></a><br/><sub>TypeScript</sub></td>
-    <td valign="top">🌐 Personal portfolio of Abdul Wahid — AI/ML Developer &amp; BS AI student at COMSATS Attock. Built with HTML, CSS &amp; JS. Live at abdulwahid.me<br/><br/><img src="https://img.shields.io/badge/ai-21262D?style=flat-square" alt="ai"/> <img src="https://img.shields.io/badge/html--css--javascript-21262D?style=flat-square" alt="html-css-javascript"/> <img src="https://img.shields.io/badge/machine--learning-21262D?style=flat-square" alt="machine-learning"/> <img src="https://img.shields.io/badge/portfolio-21262D?style=flat-square" alt="portfolio"/><br/><br/><a href="https://github.com/abduIwahid/Portfolio">Repository</a> · <a href="https://www.abdulwahid.me">Live Demo</a></td>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Smart-Doctor-Connect"><b>Smart Doctor Connect</b></a></td>
+    <td valign="top">Healthcare project built for the MTM AI Hackathon · <a href="https://smartdoctor-ai.vercel.app/">Live Demo</a></td>
   </tr>
   <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Test-Portfolio"><b>Test Portfolio</b></a><br/><sub>TypeScript</sub></td>
-    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/Test-Portfolio">Repository</a></td>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/epms"><b>EPMS</b></a></td>
+    <td valign="top">Enterprise project management system</td>
   </tr>
   <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/epms"><b>epms</b></a><br/><sub>HTML</sub></td>
-    <td valign="top">Full-stack project management platform with Kanban boards, sprint planning, real-time collaboration, and role-based access — built with React, Node.js/Express, and Supabase.<br/><br/><img src="https://img.shields.io/badge/semester--5-21262D?style=flat-square" alt="semester-5"/> <img src="https://img.shields.io/badge/web--technologies-21262D?style=flat-square" alt="web-technologies"/><br/><br/><a href="https://github.com/abduIwahid/epms">Repository</a> · <a href="https://epms-web.vercel.app">Live Demo</a></td>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Freelance-MarketPlace-Management-System"><b>Freelance Marketplace Management System</b></a></td>
+    <td valign="top">Database-focused marketplace project</td>
   </tr>
   <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/amongus-portfolio"><b>amongus portfolio</b></a><br/><sub>TypeScript</sub></td>
-    <td valign="top">A creative, Among Us–themed developer portfolio built with Next.js 15, Tailwind CSS, and Framer Motion. Designed to stand out — featuring animated impostor intro sequences, interactive mini-games, floating space characters, and a fully responsive design.<br/><br/><img src="https://img.shields.io/badge/abdulwahid-21262D?style=flat-square" alt="abdulwahid"/> <img src="https://img.shields.io/badge/ai-21262D?style=flat-square" alt="ai"/> <img src="https://img.shields.io/badge/amongus-21262D?style=flat-square" alt="amongus"/> <img src="https://img.shields.io/badge/portfolio-21262D?style=flat-square" alt="portfolio"/><br/><br/><a href="https://github.com/abduIwahid/amongus-portfolio">Repository</a> · <a href="https://amongus-portfolio.vercel.app">Live Demo</a></td>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Inventory-Management-System"><b>Inventory Management System</b></a></td>
+    <td valign="top">Java inventory management application</td>
   </tr>
   <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/5"><b>5</b></a><br/><sub>HTML</sub></td>
-    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/5">Repository</a> · <a href="https://bai5-topaz.vercel.app">Live Demo</a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Ezitech-Internship"><b>Ezitech Internship</b></a><br/><sub>TypeScript</sub></td>
-    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/Ezitech-Internship">Repository</a> · <a href="https://ezitech-internship.vercel.app">Live Demo</a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Churnex"><b>Churnex</b></a><br/><sub>Jupyter Notebook</sub></td>
-    <td valign="top">🔮 AI-powered customer churn prediction platform — MLP neural network + SHAP explainability + FastAPI backend. Predicts churn risk, visualizes feature impact, generates retention recommendations, and supports bulk CSV processing. Built with scikit-learn, SHAP, and a glassmorphism dark-themed UI.<br/><br/><img src="https://img.shields.io/badge/ai-21262D?style=flat-square" alt="ai"/> <img src="https://img.shields.io/badge/customer--churn--prediction-21262D?style=flat-square" alt="customer-churn-prediction"/> <img src="https://img.shields.io/badge/fastapi-21262D?style=flat-square" alt="fastapi"/> <img src="https://img.shields.io/badge/ml-21262D?style=flat-square" alt="ml"/> <img src="https://img.shields.io/badge/mlp-21262D?style=flat-square" alt="mlp"/><br/><br/><a href="https://github.com/abduIwahid/Churnex">Repository</a> · <a href="https://churnex.vercel.app">Live Demo</a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Smart-Doctor-Connect"><b>Smart Doctor Connect</b></a><br/><sub>HTML</sub></td>
-    <td valign="top">🚀 Mind-to-Machine (MTM) 2026: SmartDoctor AI is a specialized healthcare assistant developed during the Mind-to-Machine AI Hackathon at COMSATS Wah Campus. This project focuses on leveraging AI/ML to enhance medical decision-making and accessibility. 🏥<br/><br/><a href="https://github.com/abduIwahid/Smart-Doctor-Connect">Repository</a> · <a href="https://smartdoctor-ai.vercel.app">Live Demo</a></td>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Pac-Man"><b>Pac-Man</b></a></td>
+    <td valign="top">Maze game project</td>
   </tr>
 </table>
 <!-- PROJECTS:END -->
