@@ -11,13 +11,13 @@
 <!-- ASCII PROFILE PICTURE: replace the block below once the image is converted -->
 <img src="https://raw.githubusercontent.com/abduIwahid/abduIwahid/main/assets/ascii-pfp.svg" width="420" alt="ASCII portrait of Abdul Wahid" />
 
+<br>
+
 <a href="https://abdulwahid.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/abduIwahid"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/abdu1wahid"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:abdulwahid.connects@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://abdul-wahid-portfolio.vercel.app/CV.pdf"><img src="https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" /></a>
-
-<br/>
 
 </div>
 
