@@ -132,6 +132,7 @@ me.say_hi()
 
 <h2 align="center">Recent Projects & Contributions</h2>
 
+<!-- PROJECTS:START -->
 <table>
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/MediSight-Healthcare-Platform"><b>MediSight</b></a><br/><sub>Healthcare AI</sub></td>
@@ -187,6 +188,7 @@ me.say_hi()
     </td>
   </tr>
 </table>
+<!-- PROJECTS:END -->
 
 <details>
 <summary><b>More projects</b></summary>
