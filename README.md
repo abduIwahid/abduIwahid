@@ -135,12 +135,12 @@ me.say_hi()
 <!-- PROJECTS:START -->
 <table>
   <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Pac-Man"><b>Pac Man</b></a><br/><sub>Jupyter Notebook</sub></td>
-    <td valign="top">Navigate a neon-lit maze as Pac-Man, a hungry yellow icon on a mission to consume every pellet in sight. But you aren’t alone—3-4 ghosts are in hot pursuit. Chomp a Power Pellet to turn the tables, sending the ghosts running as you rack up points. It’s a timeless, high-score chase of pure arcade magic!<br/><br/><a href="https://github.com/abduIwahid/Pac-Man">Repository</a></td>
-  </tr>
-  <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Portfolio"><b>Portfolio</b></a><br/><sub>TypeScript</sub></td>
     <td valign="top">🌐 Personal portfolio of Abdul Wahid — AI/ML Developer &amp; BS AI student at COMSATS Attock. Built with HTML, CSS &amp; JS. Live at abdulwahid.me<br/><br/><img src="https://img.shields.io/badge/ai-21262D?style=flat-square" alt="ai"/> <img src="https://img.shields.io/badge/html--css--javascript-21262D?style=flat-square" alt="html-css-javascript"/> <img src="https://img.shields.io/badge/machine--learning-21262D?style=flat-square" alt="machine-learning"/> <img src="https://img.shields.io/badge/portfolio-21262D?style=flat-square" alt="portfolio"/><br/><br/><a href="https://github.com/abduIwahid/Portfolio">Repository</a> · <a href="https://www.abdulwahid.me">Live Demo</a></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Pac-Man"><b>Pac Man</b></a><br/><sub>Jupyter Notebook</sub></td>
+    <td valign="top">Navigate a neon-lit maze as Pac-Man, a hungry yellow icon on a mission to consume every pellet in sight. But you aren’t alone—3-4 ghosts are in hot pursuit. Chomp a Power Pellet to turn the tables, sending the ghosts running as you rack up points. It’s a timeless, high-score chase of pure arcade magic!<br/><br/><a href="https://github.com/abduIwahid/Pac-Man">Repository</a></td>
   </tr>
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/epms"><b>epms</b></a><br/><sub>HTML</sub></td>
