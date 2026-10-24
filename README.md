@@ -139,32 +139,32 @@ me.say_hi()
     <td valign="top">🌐 Personal portfolio of Abdul Wahid — AI/ML Developer &amp; BS AI student at COMSATS Attock. Built with HTML, CSS &amp; JS. Live at abdulwahid.me<br/><br/><img src="https://img.shields.io/badge/ai-21262D?style=flat-square" alt="ai"/> <img src="https://img.shields.io/badge/html--css--javascript-21262D?style=flat-square" alt="html-css-javascript"/> <img src="https://img.shields.io/badge/machine--learning-21262D?style=flat-square" alt="machine-learning"/> <img src="https://img.shields.io/badge/portfolio-21262D?style=flat-square" alt="portfolio"/><br/><br/><a href="https://github.com/abduIwahid/Portfolio">Repository</a> · <a href="https://www.abdulwahid.me">Live Demo</a></td>
   </tr>
   <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/agentic-rag-agent"><b>agentic rag agent</b></a></td>
+    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/agentic-rag-agent">Repository</a></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/github-mcp-agent"><b>github mcp agent</b></a><br/><sub>Python</sub></td>
+    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/github-mcp-agent">Repository</a></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/psx-investment-agent"><b>psx investment agent</b></a><br/><sub>Python</sub></td>
+    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/psx-investment-agent">Repository</a></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/ai-deep-research-agent"><b>ai deep research agent</b></a></td>
+    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/ai-deep-research-agent">Repository</a></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/ai-data-analyst"><b>ai data analyst</b></a></td>
+    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/ai-data-analyst">Repository</a></td>
+  </tr>
+  <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Pac-Man"><b>Pac Man</b></a><br/><sub>Jupyter Notebook</sub></td>
     <td valign="top">Navigate a neon-lit maze as Pac-Man, a hungry yellow icon on a mission to consume every pellet in sight. But you aren’t alone—3-4 ghosts are in hot pursuit. Chomp a Power Pellet to turn the tables, sending the ghosts running as you rack up points. It’s a timeless, high-score chase of pure arcade magic!<br/><br/><a href="https://github.com/abduIwahid/Pac-Man">Repository</a></td>
   </tr>
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/epms"><b>epms</b></a><br/><sub>HTML</sub></td>
     <td valign="top">Full-stack project management platform with Kanban boards, sprint planning, real-time collaboration, and role-based access — built with React, Node.js/Express, and Supabase.<br/><br/><img src="https://img.shields.io/badge/semester--5-21262D?style=flat-square" alt="semester-5"/> <img src="https://img.shields.io/badge/web--technologies-21262D?style=flat-square" alt="web-technologies"/><br/><br/><a href="https://github.com/abduIwahid/epms">Repository</a> · <a href="https://epms-web.vercel.app">Live Demo</a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/amongus-portfolio"><b>amongus portfolio</b></a><br/><sub>TypeScript</sub></td>
-    <td valign="top">A creative, Among Us–themed developer portfolio built with Next.js 15, Tailwind CSS, and Framer Motion. Designed to stand out — featuring animated impostor intro sequences, interactive mini-games, floating space characters, and a fully responsive design.<br/><br/><img src="https://img.shields.io/badge/abdulwahid-21262D?style=flat-square" alt="abdulwahid"/> <img src="https://img.shields.io/badge/ai-21262D?style=flat-square" alt="ai"/> <img src="https://img.shields.io/badge/amongus-21262D?style=flat-square" alt="amongus"/> <img src="https://img.shields.io/badge/portfolio-21262D?style=flat-square" alt="portfolio"/><br/><br/><a href="https://github.com/abduIwahid/amongus-portfolio">Repository</a> · <a href="https://amongus-portfolio.vercel.app">Live Demo</a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Ezitech-Internship"><b>Ezitech Internship</b></a><br/><sub>TypeScript</sub></td>
-    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/Ezitech-Internship">Repository</a> · <a href="https://ezitech-internship.vercel.app">Live Demo</a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Churnex"><b>Churnex</b></a><br/><sub>Jupyter Notebook</sub></td>
-    <td valign="top">🔮 AI-powered customer churn prediction platform — MLP neural network + SHAP explainability + FastAPI backend. Predicts churn risk, visualizes feature impact, generates retention recommendations, and supports bulk CSV processing. Built with scikit-learn, SHAP, and a glassmorphism dark-themed UI.<br/><br/><img src="https://img.shields.io/badge/ai-21262D?style=flat-square" alt="ai"/> <img src="https://img.shields.io/badge/customer--churn--prediction-21262D?style=flat-square" alt="customer-churn-prediction"/> <img src="https://img.shields.io/badge/fastapi-21262D?style=flat-square" alt="fastapi"/> <img src="https://img.shields.io/badge/ml-21262D?style=flat-square" alt="ml"/> <img src="https://img.shields.io/badge/mlp-21262D?style=flat-square" alt="mlp"/><br/><br/><a href="https://github.com/abduIwahid/Churnex">Repository</a> · <a href="https://churnex.vercel.app">Live Demo</a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Smart-Doctor-Connect"><b>Smart Doctor Connect</b></a><br/><sub>HTML</sub></td>
-    <td valign="top">🚀 Mind-to-Machine (MTM) 2026: SmartDoctor AI is a specialized healthcare assistant developed during the Mind-to-Machine AI Hackathon at COMSATS Wah Campus. This project focuses on leveraging AI/ML to enhance medical decision-making and accessibility. 🏥<br/><br/><a href="https://github.com/abduIwahid/Smart-Doctor-Connect">Repository</a> · <a href="https://smartdoctor-ai.vercel.app">Live Demo</a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Certificates"><b>Certificates</b></a></td>
-    <td valign="top">A collection of my professional certifications across AI, cloud, development &amp; more. Each folder contains the certificate and course details. Continuously updated as I complete new courses. Verified links included.<br/><br/><a href="https://github.com/abduIwahid/Certificates">Repository</a></td>
   </tr>
 </table>
 <!-- PROJECTS:END -->
