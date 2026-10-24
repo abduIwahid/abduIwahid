@@ -135,28 +135,28 @@ me.say_hi()
 <!-- PROJECTS:START -->
 <table>
   <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Portfolio"><b>Portfolio</b></a><br/><sub>TypeScript</sub></td>
-    <td valign="top">🌐 Personal portfolio of Abdul Wahid — AI/ML Developer &amp; BS AI student at COMSATS Attock. Built with HTML, CSS &amp; JS. Live at abdulwahid.me<br/><br/><img src="https://img.shields.io/badge/ai-21262D?style=flat-square" alt="ai"/> <img src="https://img.shields.io/badge/html--css--javascript-21262D?style=flat-square" alt="html-css-javascript"/> <img src="https://img.shields.io/badge/machine--learning-21262D?style=flat-square" alt="machine-learning"/> <img src="https://img.shields.io/badge/portfolio-21262D?style=flat-square" alt="portfolio"/><br/><br/><a href="https://github.com/abduIwahid/Portfolio">Repository</a> · <a href="https://www.abdulwahid.me">Live Demo</a></td>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/psx-investment-agent"><b>psx investment agent</b></a><br/><sub>Python</sub></td>
+    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/psx-investment-agent">Repository</a></td>
   </tr>
   <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/agentic-rag-agent"><b>agentic rag agent</b></a></td>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/agentic-rag-agent"><b>agentic rag agent</b></a><br/><sub>Python</sub></td>
     <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/agentic-rag-agent">Repository</a></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/ai-data-analyst"><b>ai data analyst</b></a><br/><sub>Python</sub></td>
+    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/ai-data-analyst">Repository</a></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Portfolio"><b>Portfolio</b></a><br/><sub>TypeScript</sub></td>
+    <td valign="top">🌐 Personal portfolio of Abdul Wahid — AI/ML Developer &amp; BS AI student at COMSATS Attock. Built with HTML, CSS &amp; JS. Live at abdulwahid.me<br/><br/><img src="https://img.shields.io/badge/ai-21262D?style=flat-square" alt="ai"/> <img src="https://img.shields.io/badge/html--css--javascript-21262D?style=flat-square" alt="html-css-javascript"/> <img src="https://img.shields.io/badge/machine--learning-21262D?style=flat-square" alt="machine-learning"/> <img src="https://img.shields.io/badge/portfolio-21262D?style=flat-square" alt="portfolio"/><br/><br/><a href="https://github.com/abduIwahid/Portfolio">Repository</a> · <a href="https://www.abdulwahid.me">Live Demo</a></td>
   </tr>
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/github-mcp-agent"><b>github mcp agent</b></a><br/><sub>Python</sub></td>
     <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/github-mcp-agent">Repository</a></td>
   </tr>
   <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/psx-investment-agent"><b>psx investment agent</b></a><br/><sub>Python</sub></td>
-    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/psx-investment-agent">Repository</a></td>
-  </tr>
-  <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/ai-deep-research-agent"><b>ai deep research agent</b></a></td>
     <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/ai-deep-research-agent">Repository</a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/ai-data-analyst"><b>ai data analyst</b></a></td>
-    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/ai-data-analyst">Repository</a></td>
   </tr>
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Pac-Man"><b>Pac Man</b></a><br/><sub>Jupyter Notebook</sub></td>
