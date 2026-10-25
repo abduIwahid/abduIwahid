@@ -135,8 +135,12 @@ me.say_hi()
 <!-- PROJECTS:START -->
 <table>
   <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/MediSight"><b>MediSight</b></a><br/><sub>TypeScript</sub></td>
-    <td valign="top">AI healthcare platform for diabetes risk prediction with explainable ML (SHAP) — Next.js, FastAPI and Supabase.<br/><br/><img src="https://img.shields.io/badge/explainable--ai-21262D?style=flat-square" alt="explainable-ai"/> <img src="https://img.shields.io/badge/fastapi-21262D?style=flat-square" alt="fastapi"/> <img src="https://img.shields.io/badge/healthcare-21262D?style=flat-square" alt="healthcare"/> <img src="https://img.shields.io/badge/machine--learning-21262D?style=flat-square" alt="machine-learning"/> <img src="https://img.shields.io/badge/nextjs-21262D?style=flat-square" alt="nextjs"/> <img src="https://img.shields.io/badge/risk--prediction-21262D?style=flat-square" alt="risk-prediction"/> <img src="https://img.shields.io/badge/shap-21262D?style=flat-square" alt="shap"/> <img src="https://img.shields.io/badge/supabase-21262D?style=flat-square" alt="supabase"/><br/><br/><a href="https://github.com/abduIwahid/MediSight">Repository</a></td>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/WhyRisk"><b>WhyRisk</b></a><br/><sub>TypeScript</sub></td>
+    <td valign="top">AI healthcare platform for diabetes risk prediction with explainable ML (SHAP) — Next.js, FastAPI and Supabase.<br/><br/><img src="https://img.shields.io/badge/explainable--ai-21262D?style=flat-square" alt="explainable-ai"/> <img src="https://img.shields.io/badge/fastapi-21262D?style=flat-square" alt="fastapi"/> <img src="https://img.shields.io/badge/healthcare-21262D?style=flat-square" alt="healthcare"/> <img src="https://img.shields.io/badge/machine--learning-21262D?style=flat-square" alt="machine-learning"/> <img src="https://img.shields.io/badge/nextjs-21262D?style=flat-square" alt="nextjs"/> <img src="https://img.shields.io/badge/risk--prediction-21262D?style=flat-square" alt="risk-prediction"/> <img src="https://img.shields.io/badge/shap-21262D?style=flat-square" alt="shap"/> <img src="https://img.shields.io/badge/supabase-21262D?style=flat-square" alt="supabase"/><br/><br/><a href="https://github.com/abduIwahid/WhyRisk">Repository</a> · <a href="https://whyrisk.vercel.app">Live Demo</a></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Portfolio"><b>Portfolio</b></a><br/><sub>TypeScript</sub></td>
+    <td valign="top">🌐 Personal portfolio of Abdul Wahid — AI/ML Developer &amp; BS AI student at COMSATS Attock. Built with HTML, CSS &amp; JS. Live at abdulwahid.me<br/><br/><img src="https://img.shields.io/badge/ai-21262D?style=flat-square" alt="ai"/> <img src="https://img.shields.io/badge/html--css--javascript-21262D?style=flat-square" alt="html-css-javascript"/> <img src="https://img.shields.io/badge/machine--learning-21262D?style=flat-square" alt="machine-learning"/> <img src="https://img.shields.io/badge/portfolio-21262D?style=flat-square" alt="portfolio"/><br/><br/><a href="https://github.com/abduIwahid/Portfolio">Repository</a> · <a href="https://www.abdulwahid.me">Live Demo</a></td>
   </tr>
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/psx-investment-agent"><b>psx investment agent</b></a><br/><sub>Python</sub></td>
@@ -149,10 +153,6 @@ me.say_hi()
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/ai-data-analyst"><b>ai data analyst</b></a><br/><sub>Python</sub></td>
     <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/ai-data-analyst">Repository</a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Portfolio"><b>Portfolio</b></a><br/><sub>TypeScript</sub></td>
-    <td valign="top">🌐 Personal portfolio of Abdul Wahid — AI/ML Developer &amp; BS AI student at COMSATS Attock. Built with HTML, CSS &amp; JS. Live at abdulwahid.me<br/><br/><img src="https://img.shields.io/badge/ai-21262D?style=flat-square" alt="ai"/> <img src="https://img.shields.io/badge/html--css--javascript-21262D?style=flat-square" alt="html-css-javascript"/> <img src="https://img.shields.io/badge/machine--learning-21262D?style=flat-square" alt="machine-learning"/> <img src="https://img.shields.io/badge/portfolio-21262D?style=flat-square" alt="portfolio"/><br/><br/><a href="https://github.com/abduIwahid/Portfolio">Repository</a> · <a href="https://www.abdulwahid.me">Live Demo</a></td>
   </tr>
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/github-mcp-agent"><b>github mcp agent</b></a><br/><sub>Python</sub></td>
