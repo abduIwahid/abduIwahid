@@ -135,6 +135,10 @@ me.say_hi()
 <!-- PROJECTS:START -->
 <table>
   <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/MediSight"><b>MediSight</b></a><br/><sub>TypeScript</sub></td>
+    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/MediSight">Repository</a></td>
+  </tr>
+  <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/psx-investment-agent"><b>psx investment agent</b></a><br/><sub>Python</sub></td>
     <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/psx-investment-agent">Repository</a></td>
   </tr>
@@ -161,10 +165,6 @@ me.say_hi()
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Pac-Man"><b>Pac Man</b></a><br/><sub>Jupyter Notebook</sub></td>
     <td valign="top">Navigate a neon-lit maze as Pac-Man, a hungry yellow icon on a mission to consume every pellet in sight. But you aren’t alone—3-4 ghosts are in hot pursuit. Chomp a Power Pellet to turn the tables, sending the ghosts running as you rack up points. It’s a timeless, high-score chase of pure arcade magic!<br/><br/><a href="https://github.com/abduIwahid/Pac-Man">Repository</a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/epms"><b>epms</b></a><br/><sub>HTML</sub></td>
-    <td valign="top">Full-stack project management platform with Kanban boards, sprint planning, real-time collaboration, and role-based access — built with React, Node.js/Express, and Supabase.<br/><br/><img src="https://img.shields.io/badge/semester--5-21262D?style=flat-square" alt="semester-5"/> <img src="https://img.shields.io/badge/web--technologies-21262D?style=flat-square" alt="web-technologies"/><br/><br/><a href="https://github.com/abduIwahid/epms">Repository</a> · <a href="https://epms-web.vercel.app">Live Demo</a></td>
   </tr>
 </table>
 <!-- PROJECTS:END -->
