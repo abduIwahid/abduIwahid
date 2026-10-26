@@ -11,7 +11,7 @@
 <br>
 <br>
 
-<h3><code>wadi@github ~ $ whoami</code></h3>
+<h3><code>abdulwahid@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
@@ -22,20 +22,6 @@
 
 <br>
 <br>
-
-<h3><code>wadi@github ~ $ ./links.sh</code></h3>
-
-<p><b>AI / ML Developer · BS Artificial Intelligence @ COMSATS Attock · Building WhyRisk &amp; Study Hub</b></p>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdulwahid.me-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.abdulwahid.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abdu1wahid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdu1wahid)
-[![GitHub](https://img.shields.io/badge/GitHub-abduIwahid-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abduIwahid)
-[![CV](https://img.shields.io/badge/CV-Download-0d1117?style=for-the-badge&logo=readdotcv&logoColor=white)](https://abdul-wahid-portfolio.vercel.app/CV.pdf)
-[![Email](https://img.shields.io/badge/Email-abdulwahid.connects@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulwahid.connects@gmail.com)
-
-</div>
-
----
 
 ## About Me
 
