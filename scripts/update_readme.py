@@ -42,20 +42,36 @@ def badge(text):
     )
 
 
+def name_badge(text):
+    safe = text.replace("-", "--").replace("_", "__").replace(" ", "_")
+    return (
+        f'<img src="https://img.shields.io/badge/{safe}-006D32?style=flat" '
+        f'alt="{html.escape(text)}"/>'
+    )
+
+
+def link_badge(text):
+    safe = text.replace("-", "--").replace("_", "__").replace(" ", "_")
+    return (
+        f'<img src="https://img.shields.io/badge/{safe}-006D32?style=flat-square" '
+        f'alt="{html.escape(text)}"/>'
+    )
+
+
 def row(repo):
     name = NAMES.get(repo["name"], repo["name"].replace("-", " ").replace("_", " "))
     desc = html.escape(repo.get("description") or "")
     chips = " ".join(badge(t) for t in repo.get("topics", []) if t != PIN_TOPIC)
-    links = f'<a href="{repo["html_url"]}">Repository</a>'
+    links = f'<a href="{repo["html_url"]}">{link_badge("Repository")}</a>'
     if repo.get("homepage"):
-        links += f' · <a href="{html.escape(repo["homepage"])}">Live Demo</a>'
+        links += f' · <a href="{html.escape(repo["homepage"])}">{link_badge("Live Demo")}</a>'
     body = desc + ("<br/><br/>" + chips if chips else "") + "<br/><br/>" + links
     lang = repo.get("language")
     sub = f"<br/><sub>{html.escape(lang)}</sub>" if lang else ""
     return (
         "  <tr>\n"
         f'    <td width="24%" valign="top"><a href="{repo["html_url"]}">'
-        f"<b>{html.escape(name)}</b></a>{sub}</td>\n"
+        f"{name_badge(name)}</a>{sub}</td>\n"
         f'    <td valign="top">{body}</td>\n'
         "  </tr>"
     )
