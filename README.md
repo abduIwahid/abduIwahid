@@ -1,27 +1,17 @@
 <div align="center">
 
-<!-- terminal-style profile: the heatmap, stats card and ASCII portrait below are
-     real-data SVGs regenerated daily by .github/workflows/update-profile-art.yml
-     (generators live in scripts/) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:111111&height=200&section=header&text=Abdul%20Wahid&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Developer%20%7C%20BS%20Artificial%20Intelligence&descAlignY=60&descSize=18&animation=fadeIn&fontAlignX=50" width="100%"/>
 
-<h3><code>wadi@github ~ $ ./contributions.sh</code></h3>
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Developer+;Python+%26+Java+Engineer+;Machine+Learning+Enthusiast+;BS+Artificial+Intelligence+%40+COMSATS+;Open+to+Opportunities+" alt="Typing SVG" />
 
-<img src="./contrib-heatmap.svg" width="860" alt="Abdul Wahid's GitHub contribution graph — auto-refreshed daily" />
+<br/>
+<a href="https://abdul-wahid-portfolio.vercel.app/CV.pdf">
+  <img src="https://img.shields.io/badge/Download%20CV-000000?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/>
+</a>
 
-<br>
-<br>
+</div>
 
-<h3><code>abdulwahid@github ~ $ whoami</code></h3>
-
-<table>
-<tr>
-<td valign="top"><img src="./wadi-ascii.svg" width="420" alt="Abdul Wahid — ASCII portrait" /></td>
-<td valign="top"><img src="./stats.svg" width="420" alt="Abdul Wahid's GitHub streak and contribution stats — auto-refreshed daily" /></td>
-</tr>
-</table>
-
-<br>
-<br>
+---
 
 ## About Me
 
@@ -97,6 +87,11 @@ me.say_hi()
 ## GitHub Stats
 
 <div align="center">
+
+<img src="https://streak-stats.demolab.com?user=abduIwahid&theme=github-dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border_radius=10&dates=aaaaaa&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub Streak" width="500"/>
+
+<br/>
+<br/>
 
 <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%"/>
 
