@@ -96,13 +96,13 @@
 
 <div align="center">
 
-**[View Full Certificates Repository →](https://github.com/abduIwahid/certificates)**
+[![View Full Certificates Repository](https://img.shields.io/badge/View_Full_Certificates_Repository-006D32?style=for-the-badge)](https://github.com/abduIwahid/certificates)
 
 | Credential | Issuer | Date | Skills | Proof |
 |:-----------|:-------|:-----|:-------|:------|
-| [**Google AI Essentials**](https://github.com/abduIwahid/certificates/tree/main/google-ai-essentials)<br/><sub>Specialization · 5 Courses</sub> | Google via Coursera | May 2026 | AI · Prompt Engineering · Productivity | [Verify](https://coursera.org/verify/specialization/ET3L35MRSLBI) |
-| [**ML with NumPy, pandas**](https://github.com/abduIwahid/certificates/tree/main/machine-learning-numpy-pandas)<br/><sub>Completion · 15 Hours</sub> | Educative.io | May 2026 | NumPy · pandas · scikit-learn | [Verify](https://drive.google.com/file/d/1iCF1dC5lXYNjqLK-9EoYhNlrG8B_9QV0/view) |
-| [**MTM AI Hackathon**](https://github.com/abduIwahid/certificates/tree/main/mtm-ai-hackathon-2026)<br/><sub>Participation</sub> | GDGoC, COMSATS Wah | May 12, 2026 | AI Hackathon · Problem Solving | [Verify](https://drive.google.com/file/d/1UGs2P9JgDlXth--FgMtQXr_n10pAjnsu/view) |
+| [![Google AI Essentials](https://img.shields.io/badge/Google_AI_Essentials-006D32?style=flat)](https://github.com/abduIwahid/certificates/tree/main/google-ai-essentials)<br/><sub>Specialization · 5 Courses</sub> | Google via Coursera | May 2026 | AI · Prompt Engineering · Productivity | [![Verify](https://img.shields.io/badge/Verify-006D32?style=flat-square)](https://coursera.org/verify/specialization/ET3L35MRSLBI) |
+| [![ML with NumPy, pandas](https://img.shields.io/badge/ML_with_NumPy%2C_pandas-006D32?style=flat)](https://github.com/abduIwahid/certificates/tree/main/machine-learning-numpy-pandas)<br/><sub>Completion · 15 Hours</sub> | Educative.io | May 2026 | NumPy · pandas · scikit-learn | [![Verify](https://img.shields.io/badge/Verify-006D32?style=flat-square)](https://drive.google.com/file/d/1iCF1dC5lXYNjqLK-9EoYhNlrG8B_9QV0/view) |
+| [![MTM AI Hackathon](https://img.shields.io/badge/MTM_AI_Hackathon-006D32?style=flat)](https://github.com/abduIwahid/certificates/tree/main/mtm-ai-hackathon-2026)<br/><sub>Participation</sub> | GDGoC, COMSATS Wah | May 12, 2026 | AI Hackathon · Problem Solving | [![Verify](https://img.shields.io/badge/Verify-006D32?style=flat-square)](https://drive.google.com/file/d/1UGs2P9JgDlXth--FgMtQXr_n10pAjnsu/view) |
 
 <img src="https://img.shields.io/badge/Total%20Certificates-3-26A641?style=for-the-badge&labelColor=0D1117" alt="Total Certificates: 3"/>
 <img src="https://img.shields.io/badge/Status-Continuously%20Updated-006D32?style=for-the-badge&labelColor=0D1117" alt="Continuously Updated"/>
@@ -156,21 +156,21 @@
 
 <table>
   <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Freelance-MarketPlace-Management-System"><b>Freelance Marketplace Management System</b></a></td>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Freelance-MarketPlace-Management-System"><img src="https://img.shields.io/badge/Freelance_Marketplace_Management_System-006D32?style=flat" alt="Freelance Marketplace Management System"/></a></td>
     <td valign="top">
       SQL-based backend for managing freelancers, clients, projects, bids, and payments. Focuses on efficient data design, optimized queries, and secure transactions.<br/><br/>
       <img src="https://img.shields.io/badge/SQL-0E4429?style=flat-square" alt="SQL"/>
     </td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://github.com/abduIwahid/Inventory-Management-System"><b>Inventory Management System</b></a></td>
+    <td valign="top"><a href="https://github.com/abduIwahid/Inventory-Management-System"><img src="https://img.shields.io/badge/Inventory_Management_System-006D32?style=flat" alt="Inventory Management System"/></a></td>
     <td valign="top">
       OOP-based Java project (built in NetBeans) for managing products, stock levels, sales, and suppliers, using classes, inheritance, and encapsulation.<br/><br/>
       <img src="https://img.shields.io/badge/Java-006D32?style=flat-square" alt="Java"/>
     </td>
   </tr>
   <tr>
-    <td valign="top"><a href="https://github.com/abduIwahid/Pac-Man"><b>Pac-Man</b></a></td>
+    <td valign="top"><a href="https://github.com/abduIwahid/Pac-Man"><img src="https://img.shields.io/badge/Pac--Man-006D32?style=flat" alt="Pac-Man"/></a></td>
     <td valign="top">
       A maze game: eat every pellet while 3-4 ghosts chase you, and grab a Power Pellet to turn the tables.<br/><br/>
       <img src="https://img.shields.io/badge/Jupyter%20Notebook-26A641?style=flat-square" alt="Jupyter Notebook"/>
