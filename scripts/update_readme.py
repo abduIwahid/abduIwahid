@@ -37,7 +37,7 @@ def api(url):
 def badge(text):
     safe = text.replace("-", "--").replace("_", "__").replace(" ", "_")
     return (
-        f'<img src="https://img.shields.io/badge/{safe}-21262D?style=flat-square" '
+        f'<img src="https://img.shields.io/badge/{safe}-006D32?style=flat-square" '
         f'alt="{html.escape(text)}"/>'
     )
 
