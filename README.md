@@ -15,26 +15,7 @@
 
 ## About Me
 
-```python
-class AbdulWahid:
-    def __init__(self):
-        self.name        = "Abdul Wahid"
-        self.role        = "AI / ML Developer"
-        self.university  = "COMSATS University Islamabad, ATTOCK Campus"
-        self.degree      = "BS Artificial Intelligence"
-        self.location    = "Pakistan"
-        self.email       = "abdulwahid.connects@gmail.com"
-        self.website     = "https://www.abdulwahid.me"
-        self.languages   = ["Python", "Java"]
-        self.interests   = ["Machine Learning", "Data Science", "Software Engineering", "AI Research"]
-        self.available   = True  # Open to opportunities!
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing with AI")
-
-me = AbdulWahid()
-me.say_hi()
-```
+<img src="./about-code.svg" width="100%" alt="About Abdul Wahid — a Python class: AI / ML Developer, BS Artificial Intelligence at COMSATS University Islamabad (Attock Campus), based in Pakistan, open to opportunities"/>
 
 ---
 
