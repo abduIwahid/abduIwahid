@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="332" viewBox="0 0 420 332">
+<rect width="420" height="332" rx="10" fill="#0D1117" stroke="#21262D"/>
+<circle cx="20" cy="20" r="5" fill="#FF5F57"/><circle cx="38" cy="20" r="5" fill="#FEBC2E"/><circle cx="56" cy="20" r="5" fill="#28C840"/>
+<text x="74" y="25" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="12" fill="#7D8590">wadi@github: ~/stats</text>
+<text x="24" y="66" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="30" font-weight="700" fill="#2FD08C">6</text>
+<text x="86" y="66" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="13" fill="#E6EDF3">day streak — still shipping</text>
+<text x="24" y="104" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="12.5" fill="#7D8590">$ total contributions (1y)</text>
+<text x="396" y="104" text-anchor="end" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="12.5" font-weight="700" fill="#E6EDF3">822</text>
+<text x="24" y="138" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="12.5" fill="#7D8590">$ current streak</text>
+<text x="396" y="138" text-anchor="end" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="12.5" font-weight="700" fill="#E6EDF3">6 days</text>
+<text x="24" y="172" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="12.5" fill="#7D8590">$ longest streak</text>
+<text x="396" y="172" text-anchor="end" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="12.5" font-weight="700" fill="#E6EDF3">16 days</text>
+<text x="24" y="206" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="12.5" fill="#7D8590">$ public repos</text>
+<text x="396" y="206" text-anchor="end" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="12.5" font-weight="700" fill="#E6EDF3">20</text>
+<text x="24" y="240" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="12.5" fill="#7D8590">$ total stars</text>
+<text x="396" y="240" text-anchor="end" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="12.5" font-weight="700" fill="#E6EDF3">3</text>
+<text x="24" y="274" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="12.5" fill="#7D8590">$ followers</text>
+<text x="396" y="274" text-anchor="end" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="12.5" font-weight="700" fill="#E6EDF3">10</text>
+<text x="24" y="308" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="12.5" fill="#7D8590">$ member since</text>
+<text x="396" y="308" text-anchor="end" font-family="ui-monospace,'JetBrains Mono',Menlo,monospace" font-size="12.5" font-weight="700" fill="#E6EDF3">Nov 2024</text>
+</svg>
