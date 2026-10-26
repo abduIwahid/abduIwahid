@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,35:0E4429,70:006D32,100:26A641&height=200&section=header&text=Abdul%20Wahid&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Developer%20%7C%20BS%20Artificial%20Intelligence&descAlignY=60&descSize=18&animation=fadeIn&fontAlignX=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E4429,35:006D32,70:26A641,100:39D353&height=200&section=header&text=Abdul%20Wahid&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Developer%20%7C%20BS%20Artificial%20Intelligence&descAlignY=60&descSize=18&animation=fadeIn&fontAlignX=50" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=%3E+AI+%2F+ML+Developer;%3E+Python+%26+Java+Engineer;%3E+Machine+Learning+Enthusiast;%3E+BS+Artificial+Intelligence+%40+COMSATS;%3E+Open+to+Opportunities" alt="Typing SVG" />
 
@@ -216,7 +216,7 @@
 
 <img src="https://raw.githubusercontent.com/abduIwahid/abduIwahid/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:010409,55:0E4429,100:006D32&height=100&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E4429,55:006D32,100:26A641&height=100&section=footer" width="100%" alt=""/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=26A641&center=true&vCenter=true&width=900&lines=The+goal+of+AI+is+not+to+replace+human+intelligence%2C+but+to+augment+it." alt="Quote" />
 
