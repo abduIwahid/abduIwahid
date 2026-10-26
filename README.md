@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E4429,35:006D32,70:26A641,100:39D353&height=200&section=header&text=Abdul%20Wahid&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Developer%20%7C%20BS%20Artificial%20Intelligence&descAlignY=60&descSize=18&animation=fadeIn&fontAlignX=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E4429,35:006D32,70:26A641,100:39D353&height=200&section=header&text=Abdul%20Wahid&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Developer%20%7C%20BS%20Artificial%20Intelligence&descAlignY=60&descSize=18&animation=fadeIn&fontAlignX=50&fontFamily=Impact" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=%3E+AI+%2F+ML+Developer;%3E+Python+%26+Java+Engineer;%3E+Machine+Learning+Enthusiast;%3E+BS+Artificial+Intelligence+%40+COMSATS;%3E+Open+to+Opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=%3E+AI+%2F+ML+Developer;%3E+Python+%26+Java+Engineer;%3E+Machine+Learning+Enthusiast;%3E+BS+Artificial+Intelligence+%40+COMSATS;%3E+Open+to+Opportunities" alt="Typing SVG" />
 
 <br/>
 <a href="https://abdul-wahid-portfolio.vercel.app/CV.pdf">
