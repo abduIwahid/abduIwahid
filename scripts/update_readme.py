@@ -111,3 +111,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# Table content is generated from the pinned repos on every run.
