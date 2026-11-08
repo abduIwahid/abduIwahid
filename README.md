@@ -116,6 +116,10 @@
 <!-- PROJECTS:START -->
 <table>
   <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Portfolio"><img src="https://img.shields.io/badge/Portfolio-006D32?style=flat" alt="Portfolio"/></a><br/><sub>TypeScript</sub></td>
+    <td valign="top">Personal portfolio of Abdul Wahid — AI/ML Developer &amp; BS AI student at COMSATS Attock. Built with HTML, CSS &amp; JS. Live at abdulwahid.me<br/><br/><img src="https://img.shields.io/badge/ai-006D32?style=flat-square" alt="ai"/> <img src="https://img.shields.io/badge/html--css--javascript-006D32?style=flat-square" alt="html-css-javascript"/> <img src="https://img.shields.io/badge/machine--learning-006D32?style=flat-square" alt="machine-learning"/> <img src="https://img.shields.io/badge/portfolio-006D32?style=flat-square" alt="portfolio"/><br/><br/><a href="https://github.com/abduIwahid/Portfolio"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a> · <a href="https://www.abdulwahid.me"><img src="https://img.shields.io/badge/Live_Demo-006D32?style=flat-square" alt="Live Demo"/></a></td>
+  </tr>
+  <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Smart-Doctor-Connect"><img src="https://img.shields.io/badge/Smart_Doctor_Connect-006D32?style=flat" alt="Smart Doctor Connect"/></a><br/><sub>HTML</sub></td>
     <td valign="top">🚀 Mind-to-Machine (MTM) 2026: SmartDoctor AI is a specialized healthcare assistant developed during the Mind-to-Machine AI Hackathon at COMSATS Wah Campus. This project focuses on leveraging AI/ML to enhance medical decision-making and accessibility. 🏥<br/><br/><a href="https://github.com/abduIwahid/Smart-Doctor-Connect"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a> · <a href="https://smartdoctor-ai.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-006D32?style=flat-square" alt="Live Demo"/></a></td>
   </tr>
@@ -142,10 +146,6 @@
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Student-management-System"><img src="https://img.shields.io/badge/Student_management_System-006D32?style=flat" alt="Student management System"/></a><br/><sub>Java</sub></td>
     <td valign="top">Student Management System is a Java-based project designed for the Programming Fundamentals (PF) using File Handling and Basic Programming concepts. The system allows users to Add, Search, Update, and Delete student records efficiently.<br/><br/><a href="https://github.com/abduIwahid/Student-management-System"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Freelance-MarketPlace-Management-System"><img src="https://img.shields.io/badge/Freelance_MarketPlace_Management_System-006D32?style=flat" alt="Freelance MarketPlace Management System"/></a></td>
-    <td valign="top">Freelance Marketplace Management System SQL-based backend project for managing freelancers, clients, projects, bids, and payments. Focuses on efficient data design, optimized queries, and secure transaction handling, enabling smooth workflow tracking and scalable performance for a freelance platform<br/><br/><a href="https://github.com/abduIwahid/Freelance-MarketPlace-Management-System"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
   </tr>
 </table>
 <!-- PROJECTS:END -->
