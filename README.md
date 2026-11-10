@@ -116,8 +116,28 @@
 <!-- PROJECTS:START -->
 <table>
   <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/devmetric-github-analyzer"><img src="https://img.shields.io/badge/devmetric_github_analyzer-006D32?style=flat" alt="devmetric github analyzer"/></a><br/><sub>JavaScript</sub></td>
+    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/devmetric-github-analyzer"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
+  </tr>
+  <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Portfolio"><img src="https://img.shields.io/badge/Portfolio-006D32?style=flat" alt="Portfolio"/></a><br/><sub>TypeScript</sub></td>
     <td valign="top">Personal portfolio of Abdul Wahid — AI/ML Developer &amp; BS AI student at COMSATS Attock. Built with HTML, CSS &amp; JS. Live at abdulwahid.me<br/><br/><img src="https://img.shields.io/badge/ai-006D32?style=flat-square" alt="ai"/> <img src="https://img.shields.io/badge/html--css--javascript-006D32?style=flat-square" alt="html-css-javascript"/> <img src="https://img.shields.io/badge/machine--learning-006D32?style=flat-square" alt="machine-learning"/> <img src="https://img.shields.io/badge/portfolio-006D32?style=flat-square" alt="portfolio"/><br/><br/><a href="https://github.com/abduIwahid/Portfolio"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a> · <a href="https://www.abdulwahid.me"><img src="https://img.shields.io/badge/Live_Demo-006D32?style=flat-square" alt="Live Demo"/></a></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/cinelog-tmdb"><img src="https://img.shields.io/badge/cinelog_tmdb-006D32?style=flat" alt="cinelog tmdb"/></a><br/><sub>JavaScript</sub></td>
+    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/cinelog-tmdb"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/nasa-space-dashboard"><img src="https://img.shields.io/badge/nasa_space_dashboard-006D32?style=flat" alt="nasa space dashboard"/></a><br/><sub>JavaScript</sub></td>
+    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/nasa-space-dashboard"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/skylens-weather"><img src="https://img.shields.io/badge/skylens_weather-006D32?style=flat" alt="skylens weather"/></a><br/><sub>JavaScript</sub></td>
+    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/skylens-weather"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/pokedex-explorer"><img src="https://img.shields.io/badge/pokedex_explorer-006D32?style=flat" alt="pokedex explorer"/></a><br/><sub>JavaScript</sub></td>
+    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/pokedex-explorer"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
   </tr>
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Smart-Doctor-Connect"><img src="https://img.shields.io/badge/Smart_Doctor_Connect-006D32?style=flat" alt="Smart Doctor Connect"/></a><br/><sub>HTML</sub></td>
@@ -126,26 +146,6 @@
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Certificates"><img src="https://img.shields.io/badge/Certificates-006D32?style=flat" alt="Certificates"/></a></td>
     <td valign="top">A collection of my professional certifications across AI, cloud, development &amp; more. Each folder contains the certificate and course details. Continuously updated as I complete new courses. Verified links included.<br/><br/><a href="https://github.com/abduIwahid/Certificates"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/WhyRisk"><img src="https://img.shields.io/badge/WhyRisk-006D32?style=flat" alt="WhyRisk"/></a><br/><sub>TypeScript</sub></td>
-    <td valign="top">AI healthcare platform for diabetes risk prediction with explainable ML (SHAP) — Next.js, FastAPI and Supabase.<br/><br/><img src="https://img.shields.io/badge/explainable--ai-006D32?style=flat-square" alt="explainable-ai"/> <img src="https://img.shields.io/badge/fastapi-006D32?style=flat-square" alt="fastapi"/> <img src="https://img.shields.io/badge/healthcare-006D32?style=flat-square" alt="healthcare"/> <img src="https://img.shields.io/badge/machine--learning-006D32?style=flat-square" alt="machine-learning"/> <img src="https://img.shields.io/badge/nextjs-006D32?style=flat-square" alt="nextjs"/> <img src="https://img.shields.io/badge/risk--prediction-006D32?style=flat-square" alt="risk-prediction"/> <img src="https://img.shields.io/badge/shap-006D32?style=flat-square" alt="shap"/> <img src="https://img.shields.io/badge/supabase-006D32?style=flat-square" alt="supabase"/><br/><br/><a href="https://github.com/abduIwahid/WhyRisk"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a> · <a href="https://whyrisk.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-006D32?style=flat-square" alt="Live Demo"/></a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/epms"><img src="https://img.shields.io/badge/epms-006D32?style=flat" alt="epms"/></a><br/><sub>HTML</sub></td>
-    <td valign="top">Full-stack project management platform with Kanban boards, sprint planning, real-time collaboration, and role-based access — built with React, Node.js/Express, and Supabase.<br/><br/><img src="https://img.shields.io/badge/semester--5-006D32?style=flat-square" alt="semester-5"/> <img src="https://img.shields.io/badge/web--technologies-006D32?style=flat-square" alt="web-technologies"/><br/><br/><a href="https://github.com/abduIwahid/epms"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a> · <a href="https://epms-web.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-006D32?style=flat-square" alt="Live Demo"/></a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Inventory-Management-System"><img src="https://img.shields.io/badge/Inventory_Management_System-006D32?style=flat" alt="Inventory Management System"/></a><br/><sub>Java</sub></td>
-    <td valign="top">Inventory Management System  OOP-based Java project (built in NetBeans) for managing products, stock levels, sales, and suppliers. Implements classes, inheritance, and encapsulation with a structured GUI. Focuses on efficient data handling, real-time inventory tracking, and scalable design for business operations.<br/><br/><a href="https://github.com/abduIwahid/Inventory-Management-System"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Pac-Man"><img src="https://img.shields.io/badge/Pac_Man-006D32?style=flat" alt="Pac Man"/></a><br/><sub>Jupyter Notebook</sub></td>
-    <td valign="top">Navigate a neon-lit maze as Pac-Man, a hungry yellow icon on a mission to consume every pellet in sight. But you aren’t alone—3-4 ghosts are in hot pursuit. Chomp a Power Pellet to turn the tables, sending the ghosts running as you rack up points. It’s a timeless, high-score chase of pure arcade magic!<br/><br/><a href="https://github.com/abduIwahid/Pac-Man"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Student-management-System"><img src="https://img.shields.io/badge/Student_management_System-006D32?style=flat" alt="Student management System"/></a><br/><sub>Java</sub></td>
-    <td valign="top">Student Management System is a Java-based project designed for the Programming Fundamentals (PF) using File Handling and Basic Programming concepts. The system allows users to Add, Search, Update, and Delete student records efficiently.<br/><br/><a href="https://github.com/abduIwahid/Student-management-System"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
   </tr>
 </table>
 <!-- PROJECTS:END -->
