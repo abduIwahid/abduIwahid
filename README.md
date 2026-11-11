@@ -120,10 +120,6 @@
     <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/devmetric-github-analyzer"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
   </tr>
   <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Portfolio"><img src="https://img.shields.io/badge/Portfolio-006D32?style=flat" alt="Portfolio"/></a><br/><sub>TypeScript</sub></td>
-    <td valign="top">Personal portfolio of Abdul Wahid — AI/ML Developer &amp; BS AI student at COMSATS Attock. Built with HTML, CSS &amp; JS. Live at abdulwahid.me<br/><br/><img src="https://img.shields.io/badge/ai-006D32?style=flat-square" alt="ai"/> <img src="https://img.shields.io/badge/html--css--javascript-006D32?style=flat-square" alt="html-css-javascript"/> <img src="https://img.shields.io/badge/machine--learning-006D32?style=flat-square" alt="machine-learning"/> <img src="https://img.shields.io/badge/portfolio-006D32?style=flat-square" alt="portfolio"/><br/><br/><a href="https://github.com/abduIwahid/Portfolio"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a> · <a href="https://www.abdulwahid.me"><img src="https://img.shields.io/badge/Live_Demo-006D32?style=flat-square" alt="Live Demo"/></a></td>
-  </tr>
-  <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/cinelog-tmdb"><img src="https://img.shields.io/badge/cinelog_tmdb-006D32?style=flat" alt="cinelog tmdb"/></a><br/><sub>JavaScript</sub></td>
     <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/cinelog-tmdb"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
   </tr>
@@ -138,6 +134,10 @@
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/pokedex-explorer"><img src="https://img.shields.io/badge/pokedex_explorer-006D32?style=flat" alt="pokedex explorer"/></a><br/><sub>JavaScript</sub></td>
     <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/pokedex-explorer"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Portfolio"><img src="https://img.shields.io/badge/Portfolio-006D32?style=flat" alt="Portfolio"/></a><br/><sub>TypeScript</sub></td>
+    <td valign="top">Personal portfolio of Abdul Wahid — AI/ML Developer &amp; BS AI student at COMSATS Attock. Built with HTML, CSS &amp; JS. Live at abdulwahid.me<br/><br/><img src="https://img.shields.io/badge/ai-006D32?style=flat-square" alt="ai"/> <img src="https://img.shields.io/badge/html--css--javascript-006D32?style=flat-square" alt="html-css-javascript"/> <img src="https://img.shields.io/badge/machine--learning-006D32?style=flat-square" alt="machine-learning"/> <img src="https://img.shields.io/badge/portfolio-006D32?style=flat-square" alt="portfolio"/><br/><br/><a href="https://github.com/abduIwahid/Portfolio"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a> · <a href="https://www.abdulwahid.me"><img src="https://img.shields.io/badge/Live_Demo-006D32?style=flat-square" alt="Live Demo"/></a></td>
   </tr>
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Smart-Doctor-Connect"><img src="https://img.shields.io/badge/Smart_Doctor_Connect-006D32?style=flat" alt="Smart Doctor Connect"/></a><br/><sub>HTML</sub></td>
