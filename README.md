@@ -116,24 +116,8 @@
 <!-- PROJECTS:START -->
 <table>
   <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/mtm-hackathon-26"><img src="https://img.shields.io/badge/mtm_hackathon_26-006D32?style=flat" alt="mtm hackathon 26"/></a><br/><sub>Python</sub></td>
-    <td valign="top">MTM Hackathon &#x27;26 — Team AXIONS (GDG On Campus CUI Attock). Problem statement drops 10:00 AM, 18 Nov 2026.<br/><br/><a href="https://github.com/abduIwahid/mtm-hackathon-26"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a> · <a href="https://mtm-hackathon-26.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-006D32?style=flat-square" alt="Live Demo"/></a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Portfolio"><img src="https://img.shields.io/badge/Portfolio-006D32?style=flat" alt="Portfolio"/></a><br/><sub>TypeScript</sub></td>
-    <td valign="top">Personal portfolio of Abdul Wahid — AI/ML Developer &amp; BS AI student at COMSATS Attock. Built with HTML, CSS &amp; JS. Live at abdulwahid.me<br/><br/><img src="https://img.shields.io/badge/ai-006D32?style=flat-square" alt="ai"/> <img src="https://img.shields.io/badge/html--css--javascript-006D32?style=flat-square" alt="html-css-javascript"/> <img src="https://img.shields.io/badge/machine--learning-006D32?style=flat-square" alt="machine-learning"/> <img src="https://img.shields.io/badge/portfolio-006D32?style=flat-square" alt="portfolio"/><br/><br/><a href="https://github.com/abduIwahid/Portfolio"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a> · <a href="https://www.abdulwahid.me"><img src="https://img.shields.io/badge/Live_Demo-006D32?style=flat-square" alt="Live Demo"/></a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Certificates"><img src="https://img.shields.io/badge/Certificates-006D32?style=flat" alt="Certificates"/></a></td>
-    <td valign="top">A collection of my professional certifications across AI, cloud, development &amp; more. Each folder contains the certificate and course details. Continuously updated as I complete new courses. Verified links included.<br/><br/><a href="https://github.com/abduIwahid/Certificates"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/pokedex-explorer"><img src="https://img.shields.io/badge/pokedex_explorer-006D32?style=flat" alt="pokedex explorer"/></a><br/><sub>JavaScript</sub></td>
-    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/pokedex-explorer"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/devmetric-github-analyzer"><img src="https://img.shields.io/badge/devmetric_github_analyzer-006D32?style=flat" alt="devmetric github analyzer"/></a><br/><sub>JavaScript</sub></td>
-    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/devmetric-github-analyzer"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/project-brain"><img src="https://img.shields.io/badge/project_brain-006D32?style=flat" alt="project brain"/></a><br/><sub>TypeScript</sub></td>
+    <td valign="top">A living project brain — design laws, tools, prompts, references and lessons for building premium full-stack websites and apps.<br/><br/><a href="https://github.com/abduIwahid/project-brain"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
   </tr>
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/cinelog-tmdb"><img src="https://img.shields.io/badge/cinelog_tmdb-006D32?style=flat" alt="cinelog tmdb"/></a><br/><sub>JavaScript</sub></td>
@@ -144,8 +128,24 @@
     <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/nasa-space-dashboard"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
   </tr>
   <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/devmetric-github-analyzer"><img src="https://img.shields.io/badge/devmetric_github_analyzer-006D32?style=flat" alt="devmetric github analyzer"/></a><br/><sub>JavaScript</sub></td>
+    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/devmetric-github-analyzer"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
+  </tr>
+  <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/skylens-weather"><img src="https://img.shields.io/badge/skylens_weather-006D32?style=flat" alt="skylens weather"/></a><br/><sub>JavaScript</sub></td>
     <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/skylens-weather"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/pokedex-explorer"><img src="https://img.shields.io/badge/pokedex_explorer-006D32?style=flat" alt="pokedex explorer"/></a><br/><sub>JavaScript</sub></td>
+    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/pokedex-explorer"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/planbanao"><img src="https://img.shields.io/badge/planbanao-006D32?style=flat" alt="planbanao"/></a><br/><sub>Python</sub></td>
+    <td valign="top">MTM Hackathon &#x27;26 — Team AXIONS (GDG On Campus CUI Attock). Problem statement drops 10:00 AM, 18 Nov 2026.<br/><br/><a href="https://github.com/abduIwahid/planbanao"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a> · <a href="https://mtm-hackathon-26.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-006D32?style=flat-square" alt="Live Demo"/></a></td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Portfolio"><img src="https://img.shields.io/badge/Portfolio-006D32?style=flat" alt="Portfolio"/></a><br/><sub>TypeScript</sub></td>
+    <td valign="top">Personal portfolio of Abdul Wahid — AI/ML Developer &amp; BS AI student at COMSATS Attock. Built with HTML, CSS &amp; JS. Live at abdulwahid.me<br/><br/><img src="https://img.shields.io/badge/ai-006D32?style=flat-square" alt="ai"/> <img src="https://img.shields.io/badge/html--css--javascript-006D32?style=flat-square" alt="html-css-javascript"/> <img src="https://img.shields.io/badge/machine--learning-006D32?style=flat-square" alt="machine-learning"/> <img src="https://img.shields.io/badge/portfolio-006D32?style=flat-square" alt="portfolio"/><br/><br/><a href="https://github.com/abduIwahid/Portfolio"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a> · <a href="https://www.abdulwahid.me"><img src="https://img.shields.io/badge/Live_Demo-006D32?style=flat-square" alt="Live Demo"/></a></td>
   </tr>
 </table>
 <!-- PROJECTS:END -->
