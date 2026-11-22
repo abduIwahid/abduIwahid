@@ -116,12 +116,16 @@
 <!-- PROJECTS:START -->
 <table>
   <tr>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Portfolio"><img src="https://img.shields.io/badge/Portfolio-006D32?style=flat" alt="Portfolio"/></a><br/><sub>TypeScript</sub></td>
+    <td valign="top">Personal portfolio of Abdul Wahid — AI/ML Developer &amp; BS AI student at COMSATS Attock. Built with HTML, CSS &amp; JS. Live at abdulwahid.me<br/><br/><img src="https://img.shields.io/badge/ai-006D32?style=flat-square" alt="ai"/> <img src="https://img.shields.io/badge/html--css--javascript-006D32?style=flat-square" alt="html-css-javascript"/> <img src="https://img.shields.io/badge/machine--learning-006D32?style=flat-square" alt="machine-learning"/> <img src="https://img.shields.io/badge/portfolio-006D32?style=flat-square" alt="portfolio"/><br/><br/><a href="https://github.com/abduIwahid/Portfolio"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a> · <a href="https://www.abdulwahid.me"><img src="https://img.shields.io/badge/Live_Demo-006D32?style=flat-square" alt="Live Demo"/></a></td>
+  </tr>
+  <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/WhyRisk"><img src="https://img.shields.io/badge/WhyRisk-006D32?style=flat" alt="WhyRisk"/></a><br/><sub>TypeScript</sub></td>
     <td valign="top">AI healthcare platform for diabetes risk prediction with explainable ML (SHAP) — Next.js, FastAPI and Supabase.<br/><br/><img src="https://img.shields.io/badge/explainable--ai-006D32?style=flat-square" alt="explainable-ai"/> <img src="https://img.shields.io/badge/fastapi-006D32?style=flat-square" alt="fastapi"/> <img src="https://img.shields.io/badge/healthcare-006D32?style=flat-square" alt="healthcare"/> <img src="https://img.shields.io/badge/machine--learning-006D32?style=flat-square" alt="machine-learning"/> <img src="https://img.shields.io/badge/nextjs-006D32?style=flat-square" alt="nextjs"/> <img src="https://img.shields.io/badge/risk--prediction-006D32?style=flat-square" alt="risk-prediction"/> <img src="https://img.shields.io/badge/shap-006D32?style=flat-square" alt="shap"/> <img src="https://img.shields.io/badge/supabase-006D32?style=flat-square" alt="supabase"/><br/><br/><a href="https://github.com/abduIwahid/WhyRisk"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a> · <a href="https://whyrisk.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-006D32?style=flat-square" alt="Live Demo"/></a></td>
   </tr>
   <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/Portfolio"><img src="https://img.shields.io/badge/Portfolio-006D32?style=flat" alt="Portfolio"/></a><br/><sub>TypeScript</sub></td>
-    <td valign="top">Personal portfolio of Abdul Wahid — AI/ML Developer &amp; BS AI student at COMSATS Attock. Built with HTML, CSS &amp; JS. Live at abdulwahid.me<br/><br/><img src="https://img.shields.io/badge/ai-006D32?style=flat-square" alt="ai"/> <img src="https://img.shields.io/badge/html--css--javascript-006D32?style=flat-square" alt="html-css-javascript"/> <img src="https://img.shields.io/badge/machine--learning-006D32?style=flat-square" alt="machine-learning"/> <img src="https://img.shields.io/badge/portfolio-006D32?style=flat-square" alt="portfolio"/><br/><br/><a href="https://github.com/abduIwahid/Portfolio"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a> · <a href="https://www.abdulwahid.me"><img src="https://img.shields.io/badge/Live_Demo-006D32?style=flat-square" alt="Live Demo"/></a></td>
+    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/planbanao"><img src="https://img.shields.io/badge/planbanao-006D32?style=flat" alt="planbanao"/></a><br/><sub>Python</sub></td>
+    <td valign="top">Plan Banao — AI event planner for weddings &amp; events in Pakistan. Agent chat + deterministic planning engine.<br/><br/><a href="https://github.com/abduIwahid/planbanao"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a> · <a href="https://planbanao.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-006D32?style=flat-square" alt="Live Demo"/></a></td>
   </tr>
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/NSCT-Preparation"><img src="https://img.shields.io/badge/NSCT_Preparation-006D32?style=flat" alt="NSCT Preparation"/></a></td>
@@ -142,10 +146,6 @@
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/devmetric-github-analyzer"><img src="https://img.shields.io/badge/devmetric_github_analyzer-006D32?style=flat" alt="devmetric github analyzer"/></a><br/><sub>JavaScript</sub></td>
     <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/devmetric-github-analyzer"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
-  </tr>
-  <tr>
-    <td width="24%" valign="top"><a href="https://github.com/abduIwahid/skylens-weather"><img src="https://img.shields.io/badge/skylens_weather-006D32?style=flat" alt="skylens weather"/></a><br/><sub>JavaScript</sub></td>
-    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/skylens-weather"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
   </tr>
 </table>
 <!-- PROJECTS:END -->
