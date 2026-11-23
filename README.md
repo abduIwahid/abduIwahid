@@ -125,11 +125,11 @@
   </tr>
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/planbanao"><img src="https://img.shields.io/badge/planbanao-006D32?style=flat" alt="planbanao"/></a><br/><sub>Python</sub></td>
-    <td valign="top">Plan Banao — AI event planner for weddings &amp; events in Pakistan. Agent chat + deterministic planning engine.<br/><br/><a href="https://github.com/abduIwahid/planbanao"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a> · <a href="https://planbanao.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-006D32?style=flat-square" alt="Live Demo"/></a></td>
+    <td valign="top">Plan Banao — AI event planner for weddings &amp; events in Pakistan. Agent chat + deterministic planning engine.<br/><br/><img src="https://img.shields.io/badge/ai--agent-006D32?style=flat-square" alt="ai-agent"/> <img src="https://img.shields.io/badge/hackathon-006D32?style=flat-square" alt="hackathon"/> <img src="https://img.shields.io/badge/planning-006D32?style=flat-square" alt="planning"/><br/><br/><a href="https://github.com/abduIwahid/planbanao"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a> · <a href="https://planbanao.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-006D32?style=flat-square" alt="Live Demo"/></a></td>
   </tr>
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/NSCT-Preparation"><img src="https://img.shields.io/badge/NSCT_Preparation-006D32?style=flat" alt="NSCT Preparation"/></a></td>
-    <td valign="top">Complete preparation bank for the National Skill Competency Test (NSCT) — 2170+ MCQs, quick notes, common traps and cheat sheets across all 10 official subjects.<br/><br/><a href="https://github.com/abduIwahid/NSCT-Preparation"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
+    <td valign="top">Complete preparation bank for the National Skill Competency Test (NSCT) — 2170+ MCQs, quick notes, common traps and cheat sheets across all 10 official subjects.<br/><br/><img src="https://img.shields.io/badge/exam--preparation-006D32?style=flat-square" alt="exam-preparation"/> <img src="https://img.shields.io/badge/hec-006D32?style=flat-square" alt="hec"/> <img src="https://img.shields.io/badge/mcq--bank-006D32?style=flat-square" alt="mcq-bank"/> <img src="https://img.shields.io/badge/nsct-006D32?style=flat-square" alt="nsct"/><br/><br/><a href="https://github.com/abduIwahid/NSCT-Preparation"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
   </tr>
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/project-brain"><img src="https://img.shields.io/badge/project_brain-006D32?style=flat" alt="project brain"/></a><br/><sub>TypeScript</sub></td>
@@ -137,15 +137,15 @@
   </tr>
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/cinelog-tmdb"><img src="https://img.shields.io/badge/cinelog_tmdb-006D32?style=flat" alt="cinelog tmdb"/></a><br/><sub>JavaScript</sub></td>
-    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/cinelog-tmdb"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
+    <td valign="top">Movie discovery app powered by the TMDB API — trending films, search and a personal watchlist.<br/><br/><a href="https://github.com/abduIwahid/cinelog-tmdb"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
   </tr>
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/nasa-space-dashboard"><img src="https://img.shields.io/badge/nasa_space_dashboard-006D32?style=flat" alt="nasa space dashboard"/></a><br/><sub>JavaScript</sub></td>
-    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/nasa-space-dashboard"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
+    <td valign="top">NASA open-data dashboard — APOD, Mars rover photos and near-Earth objects, built with vanilla JS and NASA APIs.<br/><br/><a href="https://github.com/abduIwahid/nasa-space-dashboard"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
   </tr>
   <tr>
     <td width="24%" valign="top"><a href="https://github.com/abduIwahid/devmetric-github-analyzer"><img src="https://img.shields.io/badge/devmetric_github_analyzer-006D32?style=flat" alt="devmetric github analyzer"/></a><br/><sub>JavaScript</sub></td>
-    <td valign="top"><br/><br/><a href="https://github.com/abduIwahid/devmetric-github-analyzer"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
+    <td valign="top">GitHub profile analyzer with a 0–100 Profile Score — repos, languages and activity insights via the GitHub API.<br/><br/><a href="https://github.com/abduIwahid/devmetric-github-analyzer"><img src="https://img.shields.io/badge/Repository-006D32?style=flat-square" alt="Repository"/></a></td>
   </tr>
 </table>
 <!-- PROJECTS:END -->
